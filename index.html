@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LinkedIn Post Review</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="page-header">
+    <h1>LinkedIn Post Review</h1>
+    <p class="page-subtitle">Browse the latest LinkedIn finds, rate their relevance, and jump straight to the original posts.</p>
+    <div class="controls">
+      <label class="filter" for="minimum-score">
+        Minimum relevance
+        <select id="minimum-score" aria-label="Filter posts by minimum relevance score">
+          <option value="0">0+</option>
+          <option value="1">1+</option>
+          <option value="2">2+</option>
+          <option value="3">3+</option>
+          <option value="4">4+</option>
+          <option value="5">5 only</option>
+        </select>
+      </label>
+      <button id="reset-scores" type="button">Reset to defaults</button>
+    </div>
+  </header>
+
+  <main id="posts" class="posts" aria-live="polite"></main>
+
+  <template id="post-template">
+    <article class="post" data-urn="">
+      <header class="post-header">
+        <div class="post-author">
+          <h2 class="post-author-name"></h2>
+          <p class="post-author-headline"></p>
+        </div>
+        <div class="post-meta">
+          <time class="post-date" datetime=""></time>
+          <span class="post-time-since"></span>
+        </div>
+      </header>
+      <div class="post-content">
+        <p class="post-title" hidden></p>
+        <p class="post-snippet"></p>
+        <p class="post-full" hidden></p>
+        <button class="toggle-content" type="button">Expand</button>
+      </div>
+      <footer class="post-footer">
+        <div class="post-actions">
+          <a class="post-link" href="#" target="_blank" rel="noopener noreferrer">Go to post</a>
+        </div>
+        <label class="post-score">
+          Relevance
+          <select class="score-select" aria-label="Set relevance score">
+            <option value="5">5 - Highly relevant</option>
+            <option value="4">4</option>
+            <option value="3">3</option>
+            <option value="2">2</option>
+            <option value="1">1</option>
+            <option value="0">0 - Irrelevant</option>
+          </select>
+        </label>
+      </footer>
+    </article>
+  </template>
+
+  <section id="status" class="status" role="status" aria-live="assertive"></section>
+
+  <script src="data.js"></script>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
