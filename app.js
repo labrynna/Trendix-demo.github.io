@@ -148,6 +148,27 @@ function renderPosts(options = {}) {
     }
     linkEl.dataset.urn = post.urn;
 
+    const commentSection = fragment.querySelector(".post-proposed-comment");
+    if (commentSection) {
+      if (post.proposedComment) {
+        const commentTextEl = commentSection.querySelector(".proposed-comment-text");
+        const copyButton = commentSection.querySelector(".copy-comment");
+        commentSection.hidden = false;
+        commentTextEl.textContent = post.proposedComment;
+        copyButton.addEventListener("click", async () => {
+          const label = post.authorName?.trim() || post.urn;
+          const copied = await copyCommentToClipboard(post.proposedComment);
+          if (copied) {
+            updateStatus(`Proposed comment copied for ${label}.`);
+          } else {
+            updateStatus(`Unable to copy proposed comment for ${label}.`, true);
+          }
+        });
+      } else {
+        commentSection.remove();
+      }
+    }
+
     const scoreSelect = fragment.querySelector(".score-select");
     scoreSelect.value = String(score);
     scoreSelect.addEventListener("change", (event) => {
@@ -245,4 +266,39 @@ function updateStatus(message, isError = false) {
 
 function formatSummary({ visible, total, minScore }) {
   return `Showing ${numeral.format(visible)} of ${numeral.format(total)} posts (min score ${minScore}).`;
+}
+
+async function copyCommentToClipboard(text) {
+  if (!text) {
+    return false;
+  }
+
+  try {
+    if (navigator.clipboard?.writeText) {
+      await navigator.clipboard.writeText(text);
+      return true;
+    }
+  } catch (error) {
+    console.warn("Clipboard API write failed", error);
+  }
+
+  const textarea = document.createElement("textarea");
+  textarea.value = text;
+  textarea.setAttribute("readonly", "true");
+  textarea.style.position = "fixed";
+  textarea.style.opacity = "0";
+  document.body.appendChild(textarea);
+  textarea.select();
+  textarea.setSelectionRange(0, textarea.value.length);
+
+  let copied = false;
+  try {
+    copied = document.execCommand("copy");
+  } catch (error) {
+    console.warn("execCommand copy failed", error);
+    copied = false;
+  }
+
+  document.body.removeChild(textarea);
+  return copied;
 }

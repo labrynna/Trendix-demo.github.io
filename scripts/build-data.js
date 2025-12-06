@@ -4,6 +4,7 @@ const path = require("path");
 const ROOT = path.resolve(__dirname, "..");
 const DATASET_FILE = "dataset_linkedin-post-search-scraper_2025-11-15_14-09-43-945.json";
 const SCORES_FILE = "lead_scores.json";
+const COMMENTS_FILE = "proposed_comments.json";
 const OUTPUT_FILE = "data.js";
 const PREVIEW_COUNT = 3;
 
@@ -13,7 +14,7 @@ function readJson(filePath) {
   return JSON.parse(raw);
 }
 
-function normalisePosts(rawPosts) {
+function normalisePosts(rawPosts, commentMap) {
   return rawPosts
     .map((entry) => {
       const urn = entry.urn || entry.activityUrn || entry.shareUrn;
@@ -31,7 +32,9 @@ function normalisePosts(rawPosts) {
       const timeSincePosted = entry.timeSincePosted || "";
       const authorProfileUrl = entry.authorProfileUrl || "";
 
-      return {
+      const proposedComment = commentMap.get(urn) || null;
+
+      const normalised = {
         urn,
         authorName,
         authorHeadline,
@@ -43,6 +46,12 @@ function normalisePosts(rawPosts) {
         timeSincePosted,
         authorProfileUrl,
       };
+
+      if (proposedComment) {
+        normalised.proposedComment = proposedComment;
+      }
+
+      return normalised;
     })
     .filter(Boolean);
 }
@@ -76,6 +85,40 @@ function clampScore(value) {
   return Math.min(Math.max(Math.round(numeric), 0), 5);
 }
 
+function readComments() {
+  const absolute = path.join(ROOT, COMMENTS_FILE);
+  if (!fs.existsSync(absolute)) {
+    return new Map();
+  }
+
+  try {
+    const raw = fs.readFileSync(absolute, "utf8");
+    const parsed = JSON.parse(raw);
+    if (!Array.isArray(parsed)) {
+      return new Map();
+    }
+
+    return new Map(
+      parsed
+        .map((entry) => {
+          if (!entry || typeof entry !== "object") {
+            return null;
+          }
+          const urn = typeof entry.urn === "string" ? entry.urn.trim() : "";
+          const comment = typeof entry.comment === "string" ? entry.comment.trim() : "";
+          if (!urn || !comment) {
+            return null;
+          }
+          return [urn, comment];
+        })
+        .filter(Boolean)
+    );
+  } catch (error) {
+    console.warn("Unable to read proposed comments", error);
+    return new Map();
+  }
+}
+
 function writeDataFile(posts, scores) {
   const absolute = path.join(ROOT, OUTPUT_FILE);
   const banner = "// Generated automatically from dataset and lead scores.\n";
@@ -99,8 +142,9 @@ function logSummary(posts, scores) {
 function main() {
   const rawPosts = readJson(DATASET_FILE);
   const rawScores = readJson(SCORES_FILE);
+  const commentMap = readComments();
 
-  const posts = normalisePosts(rawPosts);
+  const posts = normalisePosts(rawPosts, commentMap);
   const scores = normaliseScores(rawScores);
 
   writeDataFile(posts, scores);

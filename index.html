@@ -4,12 +4,20 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>LinkedIn Post Review</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header class="page-header">
-    <h1>LinkedIn Post Review</h1>
-    <p class="page-subtitle">Browse the latest LinkedIn finds, rate their relevance, and jump straight to the original posts.</p>
+    <div class="header-bar">
+      <div class="header-copy">
+        <h1>LinkedIn Post Review</h1>
+        <p class="page-subtitle">Browse the latest LinkedIn finds, rate their relevance, and jump straight to the original posts.</p>
+      </div>
+      <img class="brand-logo" src="jademond-digital-more-than-traffic-300x113.png" alt="Jademond Digital logo">
+    </div>
     <div class="controls">
       <label class="filter" for="minimum-score">
         Minimum relevance
@@ -45,6 +53,11 @@
         <p class="post-snippet"></p>
         <p class="post-full" hidden></p>
         <button class="toggle-content" type="button">Expand</button>
+      </div>
+      <div class="post-proposed-comment" hidden>
+        <h3>Proposed comment</h3>
+        <p class="proposed-comment-text"></p>
+        <button class="copy-comment" type="button">Copy comment</button>
       </div>
       <footer class="post-footer">
         <div class="post-actions">
