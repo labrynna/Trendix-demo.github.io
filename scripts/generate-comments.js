@@ -16,7 +16,7 @@ const CTA_LIBRARY = [
 const VALUE_PROPS = [
   "We guide global brands through China-specific SEO, SEM, and localization.",
   "Our Shanghai-based strategists blend technical SEO with culturally tuned content.",
-  "Jademond Digital supports international teams with multilingual SEO and paid growth.",
+  "Ins[ai]ght supports international teams with multilingual SEO and paid growth.",
   "We partner with B2B leaders to capture demand across Baidu, social, and marketplaces.",
   "Our team leverages AI insights plus on-the-ground execution across China and APAC."
 ];
@@ -63,7 +63,7 @@ function buildComment(entry, index) {
   const value = pick(VALUE_PROPS, index);
   const cta = pick(CTA_LIBRARY, index + 1);
 
-  return `Hi ${firstName}, really enjoyed your perspective on ${topic}. ${value} ${cta} – Liang, Jademond Digital https://www.jademond.com/`;
+  return `Hi ${firstName}, really enjoyed your perspective on ${topic}. ${value} ${cta} – Liang, Ins[ai]ght`;
 }
 
 function main() {
