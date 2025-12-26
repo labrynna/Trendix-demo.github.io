@@ -11,7 +11,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T21:27:16.100Z",
     "timeSincePosted": "16h",
     "authorProfileUrl": "https://www.linkedin.com/in/laura-fell-a160954?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAC5QHIB2GIJOSqAgbm9zhk3I700wnSQh-k",
-    "proposedComment": "Hi Laura, really enjoyed your perspective on Search Engine Optimization (SEO) Specialist. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Laura, really enjoyed your perspective on Search Engine Optimization (SEO) Specialist. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395454988585668608",
@@ -24,7 +24,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T13:37:50.188Z",
     "timeSincePosted": "26m",
     "authorProfileUrl": "https://www.linkedin.com/in/omerriaz712?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA75BfcB99PxUGiP2tgo5XI8NpYudYpTqCM",
-    "proposedComment": "Hi Omer, really enjoyed your perspective on 5 Real Differences Between Traditional SEO and AI SEO. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Omer, really enjoyed your perspective on 5 Real Differences Between Traditional SEO and AI SEO. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395415860728717312",
@@ -37,7 +37,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T11:02:21.380Z",
     "timeSincePosted": "3h",
     "authorProfileUrl": "https://www.linkedin.com/in/seo-consultant-asad-najeeb?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABth-V8BPAmZpj2IcUy4bjuniZcytNWisyk",
-    "proposedComment": "Hi Asad, really enjoyed your perspective on Which specialized SEO skill do you think will deliver the biggest impact over…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Asad, really enjoyed your perspective on Which specialized SEO skill do you think will deliver the biggest impact over…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395362735775145984",
@@ -50,7 +50,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T07:31:15.404Z",
     "timeSincePosted": "6h",
     "authorProfileUrl": "https://www.linkedin.com/company/pics-pendagoninstitute/posts",
-    "proposedComment": "Hi PICS, really enjoyed your perspective on Why SEO Is More Relevant Than Ever in 2025. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi PICS, really enjoyed your perspective on Why SEO Is More Relevant Than Ever in 2025. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395320873701826560",
@@ -63,7 +63,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T04:44:54.708Z",
     "timeSincePosted": "9h",
     "authorProfileUrl": "https://www.linkedin.com/in/digi-dinesh?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEbKNGkBnlRlv1vZ-F-xtGt53B3vFmLjxP8",
-    "proposedComment": "Hi Dinesh, really enjoyed your perspective on Content and AI SEO Weekly: How Search, Ranking Signals, and Content…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Dinesh, really enjoyed your perspective on Content and AI SEO Weekly: How Search, Ranking Signals, and Content…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395147850554204160",
@@ -76,7 +76,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T17:17:22.775Z",
     "timeSincePosted": "20h",
     "authorProfileUrl": "https://www.linkedin.com/in/yashpratapofficial?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA79micBhpJY4v6ZJXZabpDVx4tE34eut4k",
-    "proposedComment": "Hi Yash, really enjoyed your perspective on SEO vs GEO vs AEO: The Future of Search Optimization in the AI Era. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Yash, really enjoyed your perspective on SEO vs GEO vs AEO: The Future of Search Optimization in the AI Era. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395286948036214784",
@@ -89,7 +89,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T02:30:06.199Z",
     "timeSincePosted": "11h",
     "authorProfileUrl": "https://www.linkedin.com/in/shubham-patel-938172177?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACnZRbwBOCNMKIvgOs-2nz3gU5oE4Dsg7XQ",
-    "proposedComment": "Hi Shubham, really enjoyed your perspective on 🚨 SEO Has Changed—and That’s Why Most Businesses Are Having a Hard Time. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Shubham, really enjoyed your perspective on 🚨 SEO Has Changed—and That’s Why Most Businesses Are Having a Hard Time. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395273264807407616",
@@ -102,7 +102,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T01:35:43.863Z",
     "timeSincePosted": "12h",
     "authorProfileUrl": "https://www.linkedin.com/in/sagarmba?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA1FwQQB3ymOxomUoOW0GN3l7UKPEOR1phw",
-    "proposedComment": "Hi Sagar, really enjoyed your perspective on GEO, AEO, vs. SEO: Why Chasing Buzzwords Won't Win (And Why SEO is Still the…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Sagar, really enjoyed your perspective on GEO, AEO, vs. SEO: Why Chasing Buzzwords Won't Win (And Why SEO is Still the…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395342317072789504",
@@ -115,7 +115,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T06:10:07.206Z",
     "timeSincePosted": "7h",
     "authorProfileUrl": "https://www.linkedin.com/in/navaygill?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAACxo6ABbPBup12tiH48mkvniQ6D4xgFgf8",
-    "proposedComment": "Hi Navdeep, really enjoyed your perspective on From SEO to AIO: Agent Intent Optimization in the Age of Algorithmic Shoppers —…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Navdeep, really enjoyed your perspective on From SEO to AIO: Agent Intent Optimization in the Age of Algorithmic Shoppers —…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395168424861261825",
@@ -128,7 +128,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T18:39:08.072Z",
     "timeSincePosted": "19h",
     "authorProfileUrl": "https://www.linkedin.com/company/search-engine-land/posts",
-    "proposedComment": "Hi Search, really enjoyed your perspective on AI search isn’t “the new SEO.” It’s a parallel system with different rules —…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Search, really enjoyed your perspective on AI search isn’t “the new SEO.” It’s a parallel system with different rules —…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395337860679094272",
@@ -141,7 +141,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T05:52:24.719Z",
     "timeSincePosted": "8h",
     "authorProfileUrl": "https://www.linkedin.com/in/hrishikesh-shinde-191563338?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFTMtz0Bn3DKBvn77yOvDt7-E6C889NxM6U",
-    "proposedComment": "Hi hrishikesh, really enjoyed your perspective on Secure Search Engine Optimization Essentials. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi hrishikesh, really enjoyed your perspective on Secure Search Engine Optimization Essentials. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395427154819317760",
@@ -154,7 +154,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T11:47:14.101Z",
     "timeSincePosted": "2h",
     "authorProfileUrl": "https://www.linkedin.com/company/yrg-tech-solutions-pvt-ltd/posts",
-    "proposedComment": "Hi YRG, really enjoyed your perspective on Mastering SEO: Creative Insights to Boost Your Website Ranking. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi YRG, really enjoyed your perspective on Mastering SEO: Creative Insights to Boost Your Website Ranking. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395457186514235392",
@@ -167,7 +167,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T13:46:34.215Z",
     "timeSincePosted": "17m",
     "authorProfileUrl": "https://www.linkedin.com/in/vahetashchyan-seo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACisSMsB4hVVWWBp7u5hBcy4IMc-DTDTeXs",
-    "proposedComment": "Hi Vahe, really enjoyed your perspective on SEO, AEO & GEO The New Era of Search and Why Businesses Must Evolve. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Vahe, really enjoyed your perspective on SEO, AEO & GEO The New Era of Search and Why Businesses Must Evolve. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395315548881842176",
@@ -180,7 +180,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T04:23:45.172Z",
     "timeSincePosted": "9h",
     "authorProfileUrl": "https://www.linkedin.com/in/zareena-kousar-4b6686395?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAGEZC0oBX52TlqgKj7dJ0_nzTXYVITX_QLI",
-    "proposedComment": "Hi zareena, really enjoyed your perspective on What is SEO? 🤔 It’s the power behind getting your website seen, clicked, and…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi zareena, really enjoyed your perspective on What is SEO? 🤔 It’s the power behind getting your website seen, clicked, and…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395397902409551872",
@@ -193,7 +193,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T09:50:59.783Z",
     "timeSincePosted": "4h",
     "authorProfileUrl": "https://www.linkedin.com/in/vladyslavkri?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACcM18ABK5IMtpilCLl6hhQl_b-f5SkL9hA",
-    "proposedComment": "Hi Vladi, really enjoyed your perspective on If you have a website and want to do SEO for cheap. Here are the best free SEO…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Vladi, really enjoyed your perspective on If you have a website and want to do SEO for cheap. Here are the best free SEO…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395339778906447872",
@@ -206,7 +206,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T06:00:02.060Z",
     "timeSincePosted": "8h",
     "authorProfileUrl": "https://www.linkedin.com/in/varungandhasiri?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD6uE2QB3_JeUURt5s9KQ2Uz2458FUJ41-k",
-    "proposedComment": "Hi Varun, really enjoyed your perspective on How to Make ChatGPT Talk About Your Brand. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Varun, really enjoyed your perspective on How to Make ChatGPT Talk About Your Brand. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395374544498151424",
@@ -219,7 +219,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T08:18:10.823Z",
     "timeSincePosted": "5h",
     "authorProfileUrl": "https://www.linkedin.com/in/mubahsir-hussain-718b55252?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD52XsQBk3sY2_sQRAHy158JyA79Wpg-PSk",
-    "proposedComment": "Hi Mubahsir, really enjoyed your perspective on A Modern SEO Strategy Built for Sustainable Growth. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Mubahsir, really enjoyed your perspective on A Modern SEO Strategy Built for Sustainable Growth. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395331079114657792",
@@ -232,7 +232,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T05:25:27.868Z",
     "timeSincePosted": "8h",
     "authorProfileUrl": "https://www.linkedin.com/in/fakhruddiin?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAdFHoQBPuKUmr6-yL6gTT0jabl0uRL2DqM",
-    "proposedComment": "Hi Mohammad, really enjoyed your perspective on SEO Strategy. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Mohammad, really enjoyed your perspective on SEO Strategy. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395421927575568384",
@@ -245,7 +245,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T11:26:27.829Z",
     "timeSincePosted": "2h",
     "authorProfileUrl": "https://www.linkedin.com/in/lalit-kumar-dange-a11b37398?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAGGzK-0Bp6lfUk6sZo3ZkGMQdREv12J3vQM",
-    "proposedComment": "Hi Lalit, really enjoyed your perspective on Search engine optimization (SEO). We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Lalit, really enjoyed your perspective on Search engine optimization (SEO). We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395399555682504704",
@@ -258,7 +258,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T09:57:33.954Z",
     "timeSincePosted": "4h",
     "authorProfileUrl": "https://www.linkedin.com/in/abhinav-krishna-seo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEKLsQ0B1tWdnIbO0wlhIq0MSibdd22aC4Q",
-    "proposedComment": "Hi Abhinav, really enjoyed your perspective on You are not a good SEO If you don’t understand your user, Most people still…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Abhinav, really enjoyed your perspective on You are not a good SEO If you don’t understand your user, Most people still…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395330863674294272",
@@ -271,7 +271,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T05:24:36.503Z",
     "timeSincePosted": "8h",
     "authorProfileUrl": "https://www.linkedin.com/in/swami-sridharapu-ba2319282?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAES_GGoBmziiPxwgyzU4if9e3hW8ZB9EubA",
-    "proposedComment": "Hi Swami, really enjoyed your perspective on Traditional SEO focused on keywords. AI search rewards intent. The difference…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Swami, really enjoyed your perspective on Traditional SEO focused on keywords. AI search rewards intent. The difference…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395361340086771712",
@@ -284,7 +284,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T07:25:42.646Z",
     "timeSincePosted": "6h",
     "authorProfileUrl": "https://www.linkedin.com/in/vivek-yadav-kosalia-2923321a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAP2xg4B9o5wm9tknVDdmu4PqCr8vM0_hW4",
-    "proposedComment": "Hi Vivek, really enjoyed your perspective on We are looking to connect with SEO agencies or consultants who have strong…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Vivek, really enjoyed your perspective on We are looking to connect with SEO agencies or consultants who have strong…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395406421414092800",
@@ -297,7 +297,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T10:24:50.872Z",
     "timeSincePosted": "3h",
     "authorProfileUrl": "https://www.linkedin.com/in/muhammad-tayyab-066755397?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAGF2-w4BrrxvmESsF8QKMjVovtUXNTiOcgc",
-    "proposedComment": "Hi Muhammad, really enjoyed your perspective on 📈 The Cornerstone of Digital Success: Unlocking the Power of SEO 🦾 In the…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Muhammad, really enjoyed your perspective on 📈 The Cornerstone of Digital Success: Unlocking the Power of SEO 🦾 In the…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395344917222449152",
@@ -310,7 +310,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T06:20:27.130Z",
     "timeSincePosted": "7h",
     "authorProfileUrl": "https://www.linkedin.com/in/bhagya-satya-vani-koppula-aba59b336?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFRyxW4BBQa_XbAxpxP58CzfIhlZzqE_MRg",
-    "proposedComment": "Hi Bhagya, really enjoyed your perspective on Traditional SEO focused on keywords. AI search rewards intent. The difference…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Bhagya, really enjoyed your perspective on Traditional SEO focused on keywords. AI search rewards intent. The difference…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395356278774009856",
@@ -323,7 +323,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T07:05:35.935Z",
     "timeSincePosted": "6h",
     "authorProfileUrl": "https://www.linkedin.com/company/dataspace-academy/posts",
-    "proposedComment": "Hi DataSpace, really enjoyed your perspective on Semantic Depth: The Hidden SEO Behind Content Authority. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi DataSpace, really enjoyed your perspective on Semantic Depth: The Hidden SEO Behind Content Authority. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395391933809864704",
@@ -336,7 +336,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T09:27:16.758Z",
     "timeSincePosted": "4h",
     "authorProfileUrl": "https://www.linkedin.com/in/zeeshan-iftkhar14b2169?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACgeSPkB5XPbmdDnYttdR8BiDhz7GzPkBc8",
-    "proposedComment": "Hi Zeeshan, really enjoyed your perspective on Branding and Entity SEO: Why They Matter for Higher Rankings in 2025. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Zeeshan, really enjoyed your perspective on Branding and Entity SEO: Why They Matter for Higher Rankings in 2025. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395322321605042176",
@@ -349,7 +349,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T04:50:39.915Z",
     "timeSincePosted": "9h",
     "authorProfileUrl": "https://www.linkedin.com/in/usama-mukhtiar-5729a8267?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEF2_yYBJ7s-h6UAN57PH4eOFJEJQNapQtg",
-    "proposedComment": "Hi Usama, really enjoyed your perspective on We’re Hiring — SEO Expert (1–2 Years Experience) We are looking for a skilled…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Usama, really enjoyed your perspective on We’re Hiring — SEO Expert (1–2 Years Experience) We are looking for a skilled…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395348434913980416",
@@ -362,7 +362,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T06:34:25.813Z",
     "timeSincePosted": "7h",
     "authorProfileUrl": "https://www.linkedin.com/in/indira-sangamreddy-5148092ba?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEymf6ABY8AcWopJQ2lM91QWZvHuHJyEOw0",
-    "proposedComment": "Hi Indira, really enjoyed your perspective on Traditional SEO focused on keywords. AI search rewards intent. The difference…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Indira, really enjoyed your perspective on Traditional SEO focused on keywords. AI search rewards intent. The difference…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395347129583587328",
@@ -375,7 +375,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T06:29:14.598Z",
     "timeSincePosted": "7h",
     "authorProfileUrl": "https://www.linkedin.com/in/bhagya-satya-vani-koppula-aba59b336?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFRyxW4BBQa_XbAxpxP58CzfIhlZzqE_MRg",
-    "proposedComment": "Hi Bhagya, really enjoyed your perspective on AI Overviews now appear in 15% of Google results. Organic clicks drop 18-64%…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Bhagya, really enjoyed your perspective on AI Overviews now appear in 15% of Google results. Organic clicks drop 18-64%…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395399291713978369",
@@ -388,7 +388,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T09:56:31.019Z",
     "timeSincePosted": "4h",
     "authorProfileUrl": "https://www.linkedin.com/in/nandhini-a-seo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAE7D7dYB-syqEqCE9A2EUdoBh6i9a8TOVDE",
-    "proposedComment": "Hi Nandhini, really enjoyed your perspective on ⚙️ Technical SEO Basics: The Core of a Healthy Website Technical SEO is the…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Nandhini, really enjoyed your perspective on ⚙️ Technical SEO Basics: The Core of a Healthy Website Technical SEO is the…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395437365999128576",
@@ -401,7 +401,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T12:27:48.636Z",
     "timeSincePosted": "1h",
     "authorProfileUrl": "https://www.linkedin.com/in/vidushhi-panda-a9012730b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAE7c00wBhD4f15aPqHz9AYL9g87eF3qC2fE",
-    "proposedComment": "Hi Vidushhi, really enjoyed your perspective on SEO in 2026: Trends That Will Define Search Optimization. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Vidushhi, really enjoyed your perspective on SEO in 2026: Trends That Will Define Search Optimization. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395214954737442816",
@@ -414,7 +414,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T21:44:01.659Z",
     "timeSincePosted": "16h",
     "authorProfileUrl": "https://www.linkedin.com/company/the-blueprint-training/posts",
-    "proposedComment": "Hi The, really enjoyed your perspective on Most agencies are tracking the wrong things. 📊 Rankings. Impressions.…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi The, really enjoyed your perspective on Most agencies are tracking the wrong things. 📊 Rankings. Impressions.…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395309578055397376",
@@ -427,7 +427,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T04:00:01.616Z",
     "timeSincePosted": "10h",
     "authorProfileUrl": "https://www.linkedin.com/in/piyoosh-singh?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABfQNbsBZliPne2mCca8C9t8LPn5wZjN4Ks",
-    "proposedComment": "Hi PIYOOSH, really enjoyed your perspective on Why SEO in 2025 Is No Longer About Keywords—It's About User Intent. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi PIYOOSH, really enjoyed your perspective on Why SEO in 2025 Is No Longer About Keywords—It's About User Intent. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395113051185790976",
@@ -440,7 +440,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T14:59:05.959Z",
     "timeSincePosted": "23h",
     "authorProfileUrl": "https://www.linkedin.com/in/eloise-smith-454569172?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACkEgUABDuIQd88TO5wWGLQrEJsP1cOeLJg",
-    "proposedComment": "Hi Eloise, really enjoyed your perspective on You launched your site without thinking about SEO… Now you’re scrambling,…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Eloise, really enjoyed your perspective on You launched your site without thinking about SEO… Now you’re scrambling,…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395330583431856128",
@@ -453,7 +453,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T05:23:29.688Z",
     "timeSincePosted": "8h",
     "authorProfileUrl": "https://www.linkedin.com/in/swami-sridharapu-ba2319282?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAES_GGoBmziiPxwgyzU4if9e3hW8ZB9EubA",
-    "proposedComment": "Hi Swami, really enjoyed your perspective on 45 billion searches happen daily. Google isn't getting most of them. Amazon,…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Swami, really enjoyed your perspective on 45 billion searches happen daily. Google isn't getting most of them. Amazon,…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395362142700601344",
@@ -466,7 +466,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T07:28:54.004Z",
     "timeSincePosted": "6h",
     "authorProfileUrl": "https://www.linkedin.com/in/antonio-mwamba-6b6b3ab3?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABgx7moBUGSK4F1jgOkMPmSM5eJHY2hGoaw",
-    "proposedComment": "Hi Antonio, really enjoyed your perspective on If you want millionaire results, stop running a thousand-dollar strategy. Real…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Antonio, really enjoyed your perspective on If you want millionaire results, stop running a thousand-dollar strategy. Real…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395324180659036160",
@@ -479,7 +479,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T04:58:03.148Z",
     "timeSincePosted": "9h",
     "authorProfileUrl": "https://www.linkedin.com/in/karthikj9746?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAARnyokBMfPYn4bQPoV0f8-QklBht---HIw",
-    "proposedComment": "Hi Karthik, really enjoyed your perspective on SEO Internal Linking Checklist. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Karthik, really enjoyed your perspective on SEO Internal Linking Checklist. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395111324319653890",
@@ -492,7 +492,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T14:52:14.242Z",
     "timeSincePosted": "23h",
     "authorProfileUrl": "https://www.linkedin.com/in/hrishikesh-shinde-191563338?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFTMtz0Bn3DKBvn77yOvDt7-E6C889NxM6U",
-    "proposedComment": "Hi hrishikesh, really enjoyed your perspective on The Sophisticated Art of Search Engine Optimization. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi hrishikesh, really enjoyed your perspective on The Sophisticated Art of Search Engine Optimization. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395349810578505728",
@@ -505,7 +505,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T06:39:53.797Z",
     "timeSincePosted": "7h",
     "authorProfileUrl": "https://www.linkedin.com/in/subrahmanyam-gurala-757825384?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAF7OZ_MBFIWrylQHoa0XAuQDi3m6x1fzem0",
-    "proposedComment": "Hi SUBRAHMANYAM, really enjoyed your perspective on AI Overviews now appear in 15% of Google results. Organic clicks drop 18-64%…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi SUBRAHMANYAM, really enjoyed your perspective on AI Overviews now appear in 15% of Google results. Organic clicks drop 18-64%…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395330329181446144",
@@ -518,7 +518,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T05:22:29.070Z",
     "timeSincePosted": "8h",
     "authorProfileUrl": "https://www.linkedin.com/in/swami-sridharapu-ba2319282?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAES_GGoBmziiPxwgyzU4if9e3hW8ZB9EubA",
-    "proposedComment": "Hi Swami, really enjoyed your perspective on Zero-click results steal traffic. Voice search ignores keywords. AI chat tools…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Swami, really enjoyed your perspective on Zero-click results steal traffic. Voice search ignores keywords. AI chat tools…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395214935049265152",
@@ -531,7 +531,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T21:43:56.965Z",
     "timeSincePosted": "16h",
     "authorProfileUrl": "https://www.linkedin.com/in/simonmcox?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAABwNUUBJiKOEnBXH_yQrhIZoUTbXFsEmlM",
-    "proposedComment": "Hi Simon, really enjoyed your perspective on Pinpoint - From the Estate of Jeffrey Epstein. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Simon, really enjoyed your perspective on Pinpoint - From the Estate of Jeffrey Epstein. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395244844790489088",
@@ -544,7 +544,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T23:42:48.003Z",
     "timeSincePosted": "14h",
     "authorProfileUrl": "https://www.linkedin.com/company/bloom-digital-world/posts",
-    "proposedComment": "Hi Bloom, really enjoyed your perspective on ​Unlock Your Website's Full Potential! 💡 ​A thorough SEO audit is the…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Bloom, really enjoyed your perspective on ​Unlock Your Website's Full Potential! 💡 ​A thorough SEO audit is the…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395425914576330752",
@@ -557,7 +557,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T11:42:18.404Z",
     "timeSincePosted": "2h",
     "authorProfileUrl": "https://www.linkedin.com/in/orrgodatta?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEIrGk4BfnYAGyYZ9enjMH4BvpKy5A0nzV4",
-    "proposedComment": "Hi Orrgo, really enjoyed your perspective on Why SEO Strategy Matters More Than SEO Tasks for SERP Ranking A strong SEO…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Orrgo, really enjoyed your perspective on Why SEO Strategy Matters More Than SEO Tasks for SERP Ranking A strong SEO…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395427896275820544",
@@ -570,7 +570,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T11:50:10.878Z",
     "timeSincePosted": "2h",
     "authorProfileUrl": "https://www.linkedin.com/in/prasun-piyush-social-media-business-strategist?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFefd9UBJ2v866cQCvFlMDM0enyxzXkkcFY",
-    "proposedComment": "Hi Prasun, really enjoyed your perspective on 🚀 Reddit for SEO in 2026: The Beginner’s Guide to Getting Real Traffic That…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Prasun, really enjoyed your perspective on 🚀 Reddit for SEO in 2026: The Beginner’s Guide to Getting Real Traffic That…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395339770928726017",
@@ -583,7 +583,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T06:00:00.158Z",
     "timeSincePosted": "8h",
     "authorProfileUrl": "https://www.linkedin.com/in/muhammad-usman-strategist?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADKxUa0BBO0fTE0ye24ePFhbr9_fHE-senk",
-    "proposedComment": "Hi Muhammad, really enjoyed your perspective on Most SEO problems have nothing to do with content. They start with the wrong…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Muhammad, really enjoyed your perspective on Most SEO problems have nothing to do with content. They start with the wrong…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395103206328143872",
@@ -596,7 +596,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T14:19:58.762Z",
     "timeSincePosted": "23h",
     "authorProfileUrl": "https://www.linkedin.com/in/umer-abid-78045131a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFDeMBABpIr-Eg82Az3WmpuBObJotW4Jml4",
-    "proposedComment": "Hi Umer, really enjoyed your perspective on echnical SEO is one of the most important foundations of long term website…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Umer, really enjoyed your perspective on echnical SEO is one of the most important foundations of long term website…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395337297493123072",
@@ -609,7 +609,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T05:50:10.445Z",
     "timeSincePosted": "8h",
     "authorProfileUrl": "https://www.linkedin.com/in/subrahmanyam-gurala-757825384?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAF7OZ_MBFIWrylQHoa0XAuQDi3m6x1fzem0",
-    "proposedComment": "Hi SUBRAHMANYAM, really enjoyed your perspective on 45 billion searches happen daily. Google isn't getting most of them. Amazon,…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi SUBRAHMANYAM, really enjoyed your perspective on 45 billion searches happen daily. Google isn't getting most of them. Amazon,…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395241402856779776",
@@ -622,7 +622,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T23:29:07.382Z",
     "timeSincePosted": "14h",
     "authorProfileUrl": "https://www.linkedin.com/in/chriscoussons?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB27bukBpy-GCMzYKrer1nz_K5rgvrGy5KA",
-    "proposedComment": "Hi Chris, really enjoyed your perspective on Everyone loves to debate SEO tactics. But why do the same brands keep…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Chris, really enjoyed your perspective on Everyone loves to debate SEO tactics. But why do the same brands keep…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395164007420256256",
@@ -635,7 +635,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T18:21:34.872Z",
     "timeSincePosted": "19h",
     "authorProfileUrl": "https://www.linkedin.com/in/nusrat-jahan-lima?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEs_eX0BId2LxCZmBe0gtkHf_Eci--YTOW4",
-    "proposedComment": "Hi Nusrat, really enjoyed your perspective on SEO and Paid Campaigns: Finding the Right Balance for Long-Term Growth. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Nusrat, really enjoyed your perspective on SEO and Paid Campaigns: Finding the Right Balance for Long-Term Growth. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395309852052324352",
@@ -648,7 +648,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T04:01:06.942Z",
     "timeSincePosted": "10h",
     "authorProfileUrl": "https://www.linkedin.com/in/omdhole04?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEXTZOMBRxr1LogVUchkP_6UafhnELUDVIo",
-    "proposedComment": "Hi Om, really enjoyed your perspective on How SEO Experts Explain Their Job in Society USA - \"I'm an SEO Expert.\" India -…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Om, really enjoyed your perspective on How SEO Experts Explain Their Job in Society USA - \"I'm an SEO Expert.\" India -…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395302028815675392",
@@ -661,7 +661,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T03:30:01.737Z",
     "timeSincePosted": "10h",
     "authorProfileUrl": "https://www.linkedin.com/in/sbhvibes?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC2afbsB5oOUrNO4qgRCR353FaB95ejKfnE",
-    "proposedComment": "Hi Shubham, really enjoyed your perspective on Even ranking #1 isn’t enough anymore. Our rankings haven’t dropped, but clicks…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Shubham, really enjoyed your perspective on Even ranking #1 isn’t enough anymore. Our rankings haven’t dropped, but clicks…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395369994450165760",
@@ -674,7 +674,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T08:00:06.007Z",
     "timeSincePosted": "6h",
     "authorProfileUrl": "https://www.linkedin.com/in/azmirulimran?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADKcWlkBMAITKNmqgGrb744ro_Ssrs30wvc",
-    "proposedComment": "Hi MD, really enjoyed your perspective on 2027 will change SEO Foreever. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi MD, really enjoyed your perspective on 2027 will change SEO Foreever. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395400274603032576",
@@ -687,7 +687,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T10:00:25.358Z",
     "timeSincePosted": "4h",
     "authorProfileUrl": "https://www.linkedin.com/in/farwa-shahid-seo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAF2uFR4BOLdgpw6x54TvxQDi7WmFbwC6mLs",
-    "proposedComment": "Hi Farwa, really enjoyed your perspective on Why seo Fail in 2025. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Farwa, really enjoyed your perspective on Why seo Fail in 2025. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395286932689387520",
@@ -700,7 +700,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T02:30:02.540Z",
     "timeSincePosted": "11h",
     "authorProfileUrl": "https://www.linkedin.com/in/rahul-tiwari-9758661a1?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC9Kg-kBto1hpIHsEZBkAbPNEuBR85-qx4U",
-    "proposedComment": "Hi Rahul, really enjoyed your perspective on Google Just Changed the Rules of SEO. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Rahul, really enjoyed your perspective on Google Just Changed the Rules of SEO. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395338358983540736",
@@ -713,7 +713,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T05:54:23.524Z",
     "timeSincePosted": "8h",
     "authorProfileUrl": "https://www.linkedin.com/in/subrahmanyam-gurala-757825384?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAF7OZ_MBFIWrylQHoa0XAuQDi3m6x1fzem0",
-    "proposedComment": "Hi SUBRAHMANYAM, really enjoyed your perspective on Zero-click results steal traffic. Voice search ignores keywords. AI chat tools…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi SUBRAHMANYAM, really enjoyed your perspective on Zero-click results steal traffic. Voice search ignores keywords. AI chat tools…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395163185802080256",
@@ -726,7 +726,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T18:18:18.983Z",
     "timeSincePosted": "19h",
     "authorProfileUrl": "https://www.linkedin.com/in/sumeera-prabhakaran?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAOTvGUB63cEmQLedhRLItr-uBDPsX6GkSA",
-    "proposedComment": "Hi Sumeera, really enjoyed your perspective on SEO + GEO: The Strategy to Rank on Google and Show Up in ChatGPT. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Sumeera, really enjoyed your perspective on SEO + GEO: The Strategy to Rank on Google and Show Up in ChatGPT. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395368673290567680",
@@ -739,7 +739,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T07:54:51.018Z",
     "timeSincePosted": "6h",
     "authorProfileUrl": "https://www.linkedin.com/company/xee-design/posts",
-    "proposedComment": "Hi Xee, really enjoyed your perspective on Why Businesses Need SEO Marketing to Stay Visible on Google Search and AI Search. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Xee, really enjoyed your perspective on Why Businesses Need SEO Marketing to Stay Visible on Google Search and AI Search. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395369742850609152",
@@ -752,7 +752,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T07:59:06.021Z",
     "timeSincePosted": "6h",
     "authorProfileUrl": "https://www.linkedin.com/in/lforlikhon?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAE2uQ7oBJbHPsG76BdD2GdA-yzarvz7RaXE",
-    "proposedComment": "Hi Mozahidul, really enjoyed your perspective on ❌ Things you never ask: ❌ A woman 'n Her age ❌ A man 'n His salary ❌ An SEO 'n…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Mozahidul, really enjoyed your perspective on ❌ Things you never ask: ❌ A woman 'n Her age ❌ A man 'n His salary ❌ An SEO 'n…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395431542820413440",
@@ -765,7 +765,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T12:04:40.282Z",
     "timeSincePosted": "2h",
     "authorProfileUrl": "https://www.linkedin.com/in/adnan-shabbir-827341321?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFFiw18BHvLB-ZjBTZi3YEbb0Z9rvG1JXdk",
-    "proposedComment": "Hi Adnan, really enjoyed your perspective on What is SEO, and how do on-page SEO, off-page SEO, technical SEO, and local SEO…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Adnan, really enjoyed your perspective on What is SEO, and how do on-page SEO, off-page SEO, technical SEO, and local SEO…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395375910729883648",
@@ -778,7 +778,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T08:23:36.558Z",
     "timeSincePosted": "5h",
     "authorProfileUrl": "https://www.linkedin.com/in/samirasalimi?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB_c4hcB7KTEb4wycXOtFV0zUQfHEbse8g4",
-    "proposedComment": "Hi Samira, really enjoyed your perspective on گاهی #انتخاب نکردن؛ خودش یه انتخابه! با خوندن این مطلب، تجربه‌ی زیسته من رو…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Samira, really enjoyed your perspective on گاهی #انتخاب نکردن؛ خودش یه انتخابه! با خوندن این مطلب، تجربه‌ی زیسته من رو…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395332243411456000",
@@ -791,7 +791,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T05:30:05.458Z",
     "timeSincePosted": "8h",
     "authorProfileUrl": "https://www.linkedin.com/in/mansi-kumari-410177383?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAF6H5IwB9kono75rkgP6vJopOKghCNURTJo",
-    "proposedComment": "Hi Mansi, really enjoyed your perspective on ​🤖 Answer Engine Optimization (AEO) ​AEO stands for Answer Engine…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Mansi, really enjoyed your perspective on ​🤖 Answer Engine Optimization (AEO) ​AEO stands for Answer Engine…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395445641075744768",
@@ -804,7 +804,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T13:00:41.568Z",
     "timeSincePosted": "1h",
     "authorProfileUrl": "https://www.linkedin.com/in/ayesha-mansha-seo-expert?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEMDujoBT3ZrrYnuLLY-lcoj_J4Nbl3Ei9A",
-    "proposedComment": "Hi Ayesha, really enjoyed your perspective on Everyone thinks SEO is one system. But the brands winning in 2025 know it’s…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Ayesha, really enjoyed your perspective on Everyone thinks SEO is one system. But the brands winning in 2025 know it’s…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395331483344797696",
@@ -817,7 +817,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T05:27:04.244Z",
     "timeSincePosted": "8h",
     "authorProfileUrl": "https://www.linkedin.com/in/aiman-m-532b83369?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFt58zYBmoBdAYbhuR2bdDrVxlD-nb81v8Y",
-    "proposedComment": "Hi Aiman, really enjoyed your perspective on SEO is not just a strategy it's a long-term business investment. Today’s…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Aiman, really enjoyed your perspective on SEO is not just a strategy it's a long-term business investment. Today’s…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395234988360744960",
@@ -830,7 +830,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T23:03:38.047Z",
     "timeSincePosted": "15h",
     "authorProfileUrl": "https://www.linkedin.com/in/micahlogan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAF5nAYBM84yM-uMOL-SIYOH7ArAMOxK8B0",
-    "proposedComment": "Hi Micah, really enjoyed your perspective on Visibility is vital from day one. Investing in SEO ensures you're found when…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Micah, really enjoyed your perspective on Visibility is vital from day one. Investing in SEO ensures you're found when…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395128406570610688",
@@ -843,7 +843,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T16:00:06.968Z",
     "timeSincePosted": "22h",
     "authorProfileUrl": "https://www.linkedin.com/company/direct-development-inc/posts",
-    "proposedComment": "Hi Direct, really enjoyed your perspective on Standing still is now the most expensive strategy in search. If you work in…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Direct, really enjoyed your perspective on Standing still is now the most expensive strategy in search. If you work in…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395339408683626496",
@@ -856,7 +856,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T05:58:33.792Z",
     "timeSincePosted": "8h",
     "authorProfileUrl": "https://www.linkedin.com/company/the-content-bot/posts",
-    "proposedComment": "Hi The, really enjoyed your perspective on Why Old SEO Playbooks Don’t Work in the Age of AI Search. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi The, really enjoyed your perspective on Why Old SEO Playbooks Don’t Work in the Age of AI Search. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395193896106090496",
@@ -869,7 +869,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T20:20:20.890Z",
     "timeSincePosted": "17h",
     "authorProfileUrl": "https://www.linkedin.com/in/jonas-sickler?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABbAz-kBTBUec6w1jf5yZomO3FIV-Bp9ZBw",
-    "proposedComment": "Hi Jonas, really enjoyed your perspective on Despite what the media keeps saying, SEO isn't dead. But it is evolving…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Jonas, really enjoyed your perspective on Despite what the media keeps saying, SEO isn't dead. But it is evolving…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395128416053837824",
@@ -882,7 +882,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T16:00:09.229Z",
     "timeSincePosted": "22h",
     "authorProfileUrl": "https://www.linkedin.com/company/mogul-media-consulting/posts",
-    "proposedComment": "Hi Mogul, really enjoyed your perspective on Behind the Scenes How Mogul Media Integrates AI into SEO Strategies. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Mogul, really enjoyed your perspective on Behind the Scenes How Mogul Media Integrates AI into SEO Strategies. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395410477377429504",
@@ -895,7 +895,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T10:40:57.889Z",
     "timeSincePosted": "3h",
     "authorProfileUrl": "https://www.linkedin.com/in/victorkarpenko?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACJMHv0B7pagClkA7valYRnKo3Kyz_kdpFQ",
-    "proposedComment": "Hi Victor, really enjoyed your perspective on Celebrating 13 years of SeoProfy ! 🎉 Thirteen years of research, innovation,…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Victor, really enjoyed your perspective on Celebrating 13 years of SeoProfy ! 🎉 Thirteen years of research, innovation,…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395398210908925952",
@@ -908,7 +908,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T09:52:13.335Z",
     "timeSincePosted": "4h",
     "authorProfileUrl": "https://www.linkedin.com/in/yusra-baig-515578375?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFzPe-EBKlc-OmXaFIA6A4ZI7y3SgByr8Sc",
-    "proposedComment": "Hi Yusra, really enjoyed your perspective on ❌ Stop wasting time on backlinks if your website isn’t ready! You can spend…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Yusra, really enjoyed your perspective on ❌ Stop wasting time on backlinks if your website isn’t ready! You can spend…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395417001596313600",
@@ -921,7 +921,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T11:06:53.384Z",
     "timeSincePosted": "2h",
     "authorProfileUrl": "https://www.linkedin.com/in/indira-sangamreddy-5148092ba?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEymf6ABY8AcWopJQ2lM91QWZvHuHJyEOw0",
-    "proposedComment": "Hi Indira, really enjoyed your perspective on The Impact Of AI On Marketing And B2B Websites - B2B Marketing. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Indira, really enjoyed your perspective on The Impact Of AI On Marketing And B2B Websites - B2B Marketing. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395211574829035520",
@@ -934,7 +934,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T21:30:35.826Z",
     "timeSincePosted": "16h",
     "authorProfileUrl": "https://www.linkedin.com/in/bwisotsky?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAABYRUUBVPsigxpT-wVv4GI9CaZ7waLerJY",
-    "proposedComment": "Hi Bryan, really enjoyed your perspective on 🚀 SEO vs AEO: The Must-Know Shift in Digital Strategy Search Engine…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Bryan, really enjoyed your perspective on 🚀 SEO vs AEO: The Must-Know Shift in Digital Strategy Search Engine…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395341138020184064",
@@ -947,7 +947,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T06:05:26.098Z",
     "timeSincePosted": "8h",
     "authorProfileUrl": "https://www.linkedin.com/in/faizathussein?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADlLXnoB7IrjsS0mY_RoL994XZCzWmTwk2E",
-    "proposedComment": "Hi Faizat, really enjoyed your perspective on It’s been almost a year since I niched down to SEO management, and here are 5…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Faizat, really enjoyed your perspective on It’s been almost a year since I niched down to SEO management, and here are 5…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395441011591688192",
@@ -960,7 +960,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T12:42:17.813Z",
     "timeSincePosted": "1h",
     "authorProfileUrl": "https://www.linkedin.com/in/ranveer-bagwan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFvrrosBZDzqxgrKYSFo6DT4hlaijkNFlAA",
-    "proposedComment": "Hi Ranveer, really enjoyed your perspective on Why SEO is Still the Smartest Digital Investment in 2025 A strong online…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Ranveer, really enjoyed your perspective on Why SEO is Still the Smartest Digital Investment in 2025 A strong online…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395118224016633856",
@@ -973,7 +973,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T15:19:39.258Z",
     "timeSincePosted": "22h",
     "authorProfileUrl": "https://www.linkedin.com/in/roha-tanveer-281960387?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAF9cA4EBFlK7sCBDP0c76dGAmRwd5UGTMiw",
-    "proposedComment": "Hi Roha, really enjoyed your perspective on “A Beautiful Website Won’t Rank Without SEO” Content: Most people focus on the…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Roha, really enjoyed your perspective on “A Beautiful Website Won’t Rank Without SEO” Content: Most people focus on the…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395424162678280192",
@@ -986,7 +986,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T11:35:20.719Z",
     "timeSincePosted": "2h",
     "authorProfileUrl": "https://www.linkedin.com/in/indira-sangamreddy-5148092ba?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEymf6ABY8AcWopJQ2lM91QWZvHuHJyEOw0",
-    "proposedComment": "Hi Indira, really enjoyed your perspective on Privacy laws now dictate where companies host their websites. Compliance became…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Indira, really enjoyed your perspective on Privacy laws now dictate where companies host their websites. Compliance became…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395219112202772480",
@@ -999,7 +999,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T22:00:32.876Z",
     "timeSincePosted": "16h",
     "authorProfileUrl": "https://www.linkedin.com/in/seonadim?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAGEXTv4Bv5DwFKzBZPRQKUpb9kbW-x9zKWw",
-    "proposedComment": "Hi Yasin, really enjoyed your perspective on ⚡ 5 SEO Mistakes That Are Costing New Businesses Thousands. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Yasin, really enjoyed your perspective on ⚡ 5 SEO Mistakes That Are Costing New Businesses Thousands. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395188759098531840",
@@ -1012,7 +1012,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T19:59:56.132Z",
     "timeSincePosted": "18h",
     "authorProfileUrl": "https://www.linkedin.com/company/aiforbusiness-official/posts",
-    "proposedComment": "Hi AI, really enjoyed your perspective on SEO vs GEO vs AEO: Decision Matrix 𝐆𝐞𝐭 𝐓𝐡𝐞 𝐖𝐞𝐞𝐤𝐥𝐲 𝐀𝐈…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi AI, really enjoyed your perspective on SEO vs GEO vs AEO: Decision Matrix 𝐆𝐞𝐭 𝐓𝐡𝐞 𝐖𝐞𝐞𝐤𝐥𝐲 𝐀𝐈…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395410219041726464",
@@ -1025,7 +1025,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T10:39:56.297Z",
     "timeSincePosted": "3h",
     "authorProfileUrl": "https://www.linkedin.com/company/dutable-international/posts",
-    "proposedComment": "Hi Dutable, really enjoyed your perspective on Rise of Global SEO Agencies in the Digital Economy - Dutable. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Dutable, really enjoyed your perspective on Rise of Global SEO Agencies in the Digital Economy - Dutable. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395327289237983232",
@@ -1038,7 +1038,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T05:10:24.291Z",
     "timeSincePosted": "8h",
     "authorProfileUrl": "https://www.linkedin.com/in/sumaya-sultana-?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAF04wTABJsijiF_kuoNDye6jeX0R7ucSdDo",
-    "proposedComment": "Hi Sumaya, really enjoyed your perspective on Title: SEO Audit-The First Step to Improving Your Website As a digital marketer…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Sumaya, really enjoyed your perspective on Title: SEO Audit-The First Step to Improving Your Website As a digital marketer…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395229709359403008",
@@ -1051,7 +1051,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T22:42:39.435Z",
     "timeSincePosted": "15h",
     "authorProfileUrl": "https://www.linkedin.com/company/digitalmarketingmatters/posts",
-    "proposedComment": "Hi Digital, really enjoyed your perspective on **The latest research shows that 89% of marketers now regard website speed…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Digital, really enjoyed your perspective on **The latest research shows that 89% of marketers now regard website speed…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395206128118161409",
@@ -1064,7 +1064,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T21:08:57.229Z",
     "timeSincePosted": "16h",
     "authorProfileUrl": "https://www.linkedin.com/company/thewpwizards/posts",
-    "proposedComment": "Hi WP, really enjoyed your perspective on Top Affordable Search Engine Optimization Services For Every Budget. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi WP, really enjoyed your perspective on Top Affordable Search Engine Optimization Services For Every Budget. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395170246371790850",
@@ -1077,7 +1077,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T18:46:22.354Z",
     "timeSincePosted": "19h",
     "authorProfileUrl": "https://www.linkedin.com/in/ahmad-raza-68768132a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFMJeocB-4ESSbpggxVLwsOr0pTWAhTgzkY",
-    "proposedComment": "Hi Ahmad, really enjoyed your perspective on Most businesses think SEO is complicated. But the truth is simple: A clear…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Ahmad, really enjoyed your perspective on Most businesses think SEO is complicated. But the truth is simple: A clear…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395314892439760896",
@@ -1090,7 +1090,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T04:21:08.664Z",
     "timeSincePosted": "9h",
     "authorProfileUrl": "https://www.linkedin.com/in/navjot-seo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAF811wgBC-F8zlnr3s6oc1s3FsuyKrN4GVY",
-    "proposedComment": "Hi Navjot, really enjoyed your perspective on What Is SEO in the AI Era and Why SEO for Coaches Is More Important Than Ever. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Navjot, really enjoyed your perspective on What Is SEO in the AI Era and Why SEO for Coaches Is More Important Than Ever. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395237447292375042",
@@ -1103,7 +1103,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T23:13:24.302Z",
     "timeSincePosted": "14h",
     "authorProfileUrl": "https://www.linkedin.com/company/dot-com-media/posts",
-    "proposedComment": "Hi Dot, really enjoyed your perspective on The New SEO: Optimizing for AI Responses, Not Just Web Pages. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Dot, really enjoyed your perspective on The New SEO: Optimizing for AI Responses, Not Just Web Pages. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395127409714343936",
@@ -1116,7 +1116,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T15:56:09.299Z",
     "timeSincePosted": "22h",
     "authorProfileUrl": "https://www.linkedin.com/in/shamim-ahamed-76354323b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADuzyHsByREdCdI_6LgUAkiMTxbEkMsWN9c",
-    "proposedComment": "Hi Shamim, really enjoyed your perspective on In today's digital age, the most powerful way to get your business, website,…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Shamim, really enjoyed your perspective on In today's digital age, the most powerful way to get your business, website,…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395325844216360960",
@@ -1129,7 +1129,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T05:04:39.771Z",
     "timeSincePosted": "9h",
     "authorProfileUrl": "https://www.linkedin.com/company/digimediasolutionpvtltd/posts",
-    "proposedComment": "Hi Digimedia, really enjoyed your perspective on 🚀 We’re Hiring! Join DigiMedia Solutions Pvt Ltd as an SEO Executive! If…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Digimedia, really enjoyed your perspective on 🚀 We’re Hiring! Join DigiMedia Solutions Pvt Ltd as an SEO Executive! If…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395178811400806400",
@@ -1142,7 +1142,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T19:20:24.416Z",
     "timeSincePosted": "18h",
     "authorProfileUrl": "https://www.linkedin.com/in/mizanurrahman91?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABSRrrYByklJwa-_37X7KNBpC-Djs7vFgoc",
-    "proposedComment": "Hi Mizanur, really enjoyed your perspective on Think SEO Doesn’t Work Anymore? These Proofs Will Make You Think Twice! I keep…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Mizanur, really enjoyed your perspective on Think SEO Doesn’t Work Anymore? These Proofs Will Make You Think Twice! I keep…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395133440330924032",
@@ -1155,7 +1155,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T16:20:07.110Z",
     "timeSincePosted": "21h",
     "authorProfileUrl": "https://www.linkedin.com/in/ahmad-raza-seoexpert?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAF4vJEcBXcNY1AyjULnmcqHRbAUFrtpuO64",
-    "proposedComment": "Hi Ahmad, really enjoyed your perspective on 🚀 The 80/20 Rule of SEO: Do Less, Get More Most businesses don’t need more SEO…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Ahmad, really enjoyed your perspective on 🚀 The 80/20 Rule of SEO: Do Less, Get More Most businesses don’t need more SEO…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395457013213769729",
@@ -1168,7 +1168,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T13:45:52.897Z",
     "timeSincePosted": "20m",
     "authorProfileUrl": "https://www.linkedin.com/in/muhammad-saeed01?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAF2goQ4B1FjKXEwSmEAIVpOwOH6sbfQRcik",
-    "proposedComment": "Hi Muhammad, really enjoyed your perspective on SEO is not dead you just need to work smart. Check this out: this client’s…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Muhammad, really enjoyed your perspective on SEO is not dead you just need to work smart. Check this out: this client’s…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395159608916615168",
@@ -1181,7 +1181,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T18:04:06.187Z",
     "timeSincePosted": "20h",
     "authorProfileUrl": "https://www.linkedin.com/company/onlinebusinesservices/posts",
-    "proposedComment": "Hi AI, really enjoyed your perspective on 🎯 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐘𝐨𝐮𝐫 𝐎𝐧𝐥𝐢𝐧𝐞 𝐏𝐫𝐞𝐬𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi AI, really enjoyed your perspective on 🎯 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐘𝐨𝐮𝐫 𝐎𝐧𝐥𝐢𝐧𝐞 𝐏𝐫𝐞𝐬𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395312555675791360",
@@ -1194,7 +1194,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T04:11:51.536Z",
     "timeSincePosted": "9h",
     "authorProfileUrl": "https://www.linkedin.com/in/sayed-mojibul-islam?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFimpnoBxTwjY1z2H6vfpSd5Vf9HSMfFkt0",
-    "proposedComment": "Hi Sayed, really enjoyed your perspective on ✅SEO Tricks to Increase Organic Traffic Fast- -Want to increase your organic…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Sayed, really enjoyed your perspective on ✅SEO Tricks to Increase Organic Traffic Fast- -Want to increase your organic…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395152668773736448",
@@ -1207,7 +1207,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T17:36:31.528Z",
     "timeSincePosted": "20h",
     "authorProfileUrl": "https://www.linkedin.com/company/smartclickagency/posts",
-    "proposedComment": "Hi SmartClick, really enjoyed your perspective on SEO vs GEO: The Ultimate Boost For Your Website. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi SmartClick, really enjoyed your perspective on SEO vs GEO: The Ultimate Boost For Your Website. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395211435175317504",
@@ -1220,7 +1220,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T21:30:02.530Z",
     "timeSincePosted": "16h",
     "authorProfileUrl": "https://www.linkedin.com/in/kritika-kanodia-9756741a0?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC8Vn2kBO8WSxJ-FuU3SWEiVuziNDZqzz3k",
-    "proposedComment": "Hi Kritika, really enjoyed your perspective on A founder hung up on me mid-call. Because I told him competition doesn’t matter…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Kritika, really enjoyed your perspective on A founder hung up on me mid-call. Because I told him competition doesn’t matter…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395448186976378880",
@@ -1233,7 +1233,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T13:10:48.558Z",
     "timeSincePosted": "55m",
     "authorProfileUrl": "https://www.linkedin.com/in/rutvika-rachhadiya-2b1165346?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFaFNWUBedBPJmKekmv-9RD-UGZZwmCdEpA",
-    "proposedComment": "Hi Rutvika, really enjoyed your perspective on 🚀 Master Off-Page SEO in 2026: The Power Beyond Your Website! When it comes to…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Rutvika, really enjoyed your perspective on 🚀 Master Off-Page SEO in 2026: The Power Beyond Your Website! When it comes to…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395114661186277376",
@@ -1246,7 +1246,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T15:05:29.813Z",
     "timeSincePosted": "23h",
     "authorProfileUrl": "https://www.linkedin.com/in/shoaib-shahid-29360a377?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAF0sPQ8BvuMpY0isRqMlMcs8rPKzViduqqE",
-    "proposedComment": "Hi Shoaib, really enjoyed your perspective on 🚀 28.1M Organic Traffic — When SEO Strategy Meets Consistency This report is a…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Shoaib, really enjoyed your perspective on 🚀 28.1M Organic Traffic — When SEO Strategy Meets Consistency This report is a…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395344522806861824",
@@ -1259,7 +1259,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T06:18:53.094Z",
     "timeSincePosted": "7h",
     "authorProfileUrl": "https://www.linkedin.com/in/hrishikesh-shinde-191563338?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFTMtz0Bn3DKBvn77yOvDt7-E6C889NxM6U",
-    "proposedComment": "Hi hrishikesh, really enjoyed your perspective on Unlock Top Rankings with Proven SEO Techniques. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi hrishikesh, really enjoyed your perspective on Unlock Top Rankings with Proven SEO Techniques. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395275938520829952",
@@ -1272,7 +1272,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T01:46:21.326Z",
     "timeSincePosted": "12h",
     "authorProfileUrl": "https://www.linkedin.com/in/nc-localseo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAMAxaYB6UAtJC_qhjR3vgU2j0Q8jLYcnU4",
-    "proposedComment": "Hi Terry, really enjoyed your perspective on Your fastest SEO wins are probably sitting in your competitors’ data. A simple,…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Terry, really enjoyed your perspective on Your fastest SEO wins are probably sitting in your competitors’ data. A simple,…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395151003022479360",
@@ -1285,7 +1285,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T17:29:54.382Z",
     "timeSincePosted": "20h",
     "authorProfileUrl": "https://www.linkedin.com/in/swathi--kv?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAGEiyjEBZJMCbCDl4K6WUq9s4OfJVI-11qU",
-    "proposedComment": "Hi swathi, really enjoyed your perspective on DAY 3 SEO = Techniques to improve your website’s ranking on search engines. 📈…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi swathi, really enjoyed your perspective on DAY 3 SEO = Techniques to improve your website’s ranking on search engines. 📈…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395193969686577152",
@@ -1298,7 +1298,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T20:20:38.433Z",
     "timeSincePosted": "17h",
     "authorProfileUrl": "https://www.linkedin.com/in/alif-shorif?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD2lgDsBtv4rueXnE4nwMtXvyQ6iIU2h0UQ",
-    "proposedComment": "Hi Alif, really enjoyed your perspective on Boost Your Rankings: Complete SEO Solutions with Guest Posting. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Alif, really enjoyed your perspective on Boost Your Rankings: Complete SEO Solutions with Guest Posting. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395158686106537984",
@@ -1311,7 +1311,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T18:00:26.172Z",
     "timeSincePosted": "20h",
     "authorProfileUrl": "https://www.linkedin.com/in/alokdigitalofficial?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAGEipB0BpMRVEji1REg7a90k2IX7RDGUv3M",
-    "proposedComment": "Hi Alok, really enjoyed your perspective on 🚀Top 5 Professional Insights About SEO📈 By AlokDigitalOfficial 1️⃣ User…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Alok, really enjoyed your perspective on 🚀Top 5 Professional Insights About SEO📈 By AlokDigitalOfficial 1️⃣ User…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395430613530406912",
@@ -1324,7 +1324,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T12:00:58.722Z",
     "timeSincePosted": "2h",
     "authorProfileUrl": "https://www.linkedin.com/in/designer-evanrahman?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFqNiKoBkeRShzuSgVT5PxAguC36l9Jnjc4",
-    "proposedComment": "Hi Evan, really enjoyed your perspective on SEO isn’t a one-person show! It takes a full team to make real results happen.…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Evan, really enjoyed your perspective on SEO isn’t a one-person show! It takes a full team to make real results happen.…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395139884912652288",
@@ -1337,7 +1337,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T16:45:43.618Z",
     "timeSincePosted": "21h",
     "authorProfileUrl": "https://www.linkedin.com/in/priscilla-iwedike-b2356a354?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFhcK8sBze2j-dTWt0SXXhgVU8H1MA9R2hs",
-    "proposedComment": "Hi Priscilla, really enjoyed your perspective on 💡 SEO-Optimized Doesn’t Mean “Fancy Words Only” When most people hear the term…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Priscilla, really enjoyed your perspective on 💡 SEO-Optimized Doesn’t Mean “Fancy Words Only” When most people hear the term…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395203939861966848",
@@ -1350,7 +1350,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T21:00:15.508Z",
     "timeSincePosted": "17h",
     "authorProfileUrl": "https://www.linkedin.com/company/peeeple/posts",
-    "proposedComment": "Hi Peeeple, really enjoyed your perspective on SEO Analytics & Consulting | Smart Strategies & Results | Peeeple. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Peeeple, really enjoyed your perspective on SEO Analytics & Consulting | Smart Strategies & Results | Peeeple. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395438128343441408",
@@ -1363,7 +1363,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T12:30:50.393Z",
     "timeSincePosted": "1h",
     "authorProfileUrl": "https://www.linkedin.com/in/gulshan-yadav-b18870395?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAGEgLUQB9gA6qXD0tzvNW8K1L4qIy29lJxQ",
-    "proposedComment": "Hi Gulshan, really enjoyed your perspective on ​Supercharge Your Online Visibility: Why SEO is Non-Negotiable in Today's…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Gulshan, really enjoyed your perspective on ​Supercharge Your Online Visibility: Why SEO is Non-Negotiable in Today's…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395325240052080640",
@@ -1376,7 +1376,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T05:02:15.727Z",
     "timeSincePosted": "9h",
     "authorProfileUrl": "https://www.linkedin.com/in/varungandhasiri?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD6uE2QB3_JeUURt5s9KQ2Uz2458FUJ41-k",
-    "proposedComment": "Hi Varun, really enjoyed your perspective on 8 Best SEO YouTube Channels to Follow in 2025. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Varun, really enjoyed your perspective on 8 Best SEO YouTube Channels to Follow in 2025. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395369530866339840",
@@ -1389,7 +1389,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T07:58:15.480Z",
     "timeSincePosted": "6h",
     "authorProfileUrl": "https://www.linkedin.com/in/haider-ali-a57621244?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADyatqMBoCijgq5Kz8u9Ol1NNtkm7zThDVY",
-    "proposedComment": "Hi Haider, really enjoyed your perspective on How I explain SEO to clients who think it’s “just adding keywords” Last week, a…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Haider, really enjoyed your perspective on How I explain SEO to clients who think it’s “just adding keywords” Last week, a…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395113443642548224",
@@ -1402,7 +1402,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T15:00:39.528Z",
     "timeSincePosted": "23h",
     "authorProfileUrl": "https://www.linkedin.com/company/law-tigers-dave/posts",
-    "proposedComment": "Hi Law, really enjoyed your perspective on Think you’ll stay #1 on Google forever? Think again. SEO’s a workout—you stop…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Law, really enjoyed your perspective on Think you’ll stay #1 on Google forever? Think again. SEO’s a workout—you stop…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395230829481730048",
@@ -1415,7 +1415,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T22:47:06.493Z",
     "timeSincePosted": "15h",
     "authorProfileUrl": "https://www.linkedin.com/in/nc-localseo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAMAxaYB6UAtJC_qhjR3vgU2j0Q8jLYcnU4",
-    "proposedComment": "Hi Terry, really enjoyed your perspective on Save this: the SEO playbook I use to drive compounding growth - Map intent, not…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Terry, really enjoyed your perspective on Save this: the SEO playbook I use to drive compounding growth - Map intent, not…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395209169534070784",
@@ -1428,7 +1428,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T21:21:02.359Z",
     "timeSincePosted": "16h",
     "authorProfileUrl": "https://www.linkedin.com/company/bruce-clay-inc-/posts",
-    "proposedComment": "Hi Bruce, really enjoyed your perspective on Why Technical SEO Deserves a Seat at the Executive Table. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Bruce, really enjoyed your perspective on Why Technical SEO Deserves a Seat at the Executive Table. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395319642073792512",
@@ -1441,7 +1441,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T04:40:01.065Z",
     "timeSincePosted": "9h",
     "authorProfileUrl": "https://www.linkedin.com/in/mahesh-prajapat-4b1a22389?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAF-5ukUBR2io5FBxr3YuRCbj-6tr5q2sgaM",
-    "proposedComment": "Hi Mahesh, really enjoyed your perspective on \"SEO ka asli importance samajhiye aur kaise organic traffic aapke business ke…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Mahesh, really enjoyed your perspective on \"SEO ka asli importance samajhiye aur kaise organic traffic aapke business ke…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395133997866983424",
@@ -1454,7 +1454,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T16:22:20.037Z",
     "timeSincePosted": "21h",
     "authorProfileUrl": "https://www.linkedin.com/in/hrishikesh-shinde-191563338?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFTMtz0Bn3DKBvn77yOvDt7-E6C889NxM6U",
-    "proposedComment": "Hi hrishikesh, really enjoyed your perspective on Uncovering SEO Blueprints for Top 10 Rankings. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi hrishikesh, really enjoyed your perspective on Uncovering SEO Blueprints for Top 10 Rankings. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395098212849577984",
@@ -1467,7 +1467,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T14:00:08.224Z",
     "timeSincePosted": "1d",
     "authorProfileUrl": "https://www.linkedin.com/company/creativebrrrrstrategies/posts",
-    "proposedComment": "Hi The, really enjoyed your perspective on Strategies on SEO Marketing for Real Estate Investors Building Their Brand SEO…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi The, really enjoyed your perspective on Strategies on SEO Marketing for Real Estate Investors Building Their Brand SEO…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395416362707222528",
@@ -1480,7 +1480,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T11:04:21.061Z",
     "timeSincePosted": "3h",
     "authorProfileUrl": "https://www.linkedin.com/in/sam-seo-specialist?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADzgWiIByMRVc2JGVAjiwN9ZbZbyEnleGTg",
-    "proposedComment": "Hi Sam, really enjoyed your perspective on Most people still approach SEO like it’s a single strategy… one funnel, one…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Sam, really enjoyed your perspective on Most people still approach SEO like it’s a single strategy… one funnel, one…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395147305773006848",
@@ -1493,7 +1493,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T17:15:12.889Z",
     "timeSincePosted": "20h",
     "authorProfileUrl": "https://www.linkedin.com/in/denisemillet?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAALN1AcB-lolPeZ5UzHhpihiAb2Sv-FN3Uk",
-    "proposedComment": "Hi Denise, really enjoyed your perspective on A new blog post for the SEO Day Blog has been released today! The Findability…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Denise, really enjoyed your perspective on A new blog post for the SEO Day Blog has been released today! The Findability…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395262786005680128",
@@ -1506,7 +1506,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T00:54:05.522Z",
     "timeSincePosted": "13h",
     "authorProfileUrl": "https://www.linkedin.com/company/m-media-group-llc/posts",
-    "proposedComment": "Hi M, really enjoyed your perspective on A new blog post for the SEO Day Blog has been released today! The Findability…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi M, really enjoyed your perspective on A new blog post for the SEO Day Blog has been released today! The Findability…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395370163048566784",
@@ -1519,7 +1519,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T08:00:46.204Z",
     "timeSincePosted": "6h",
     "authorProfileUrl": "https://www.linkedin.com/in/rija-yaseen-8b4007399?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAGG2BEgBM7-yTdnzXPi6pqlXIq3NamhRt3k",
-    "proposedComment": "Hi RIJA, really enjoyed your perspective on 🅶🅾🅾🅶🅻🅴 🆁🅰🅽🅺🆂 🅰🆄🆃🅷🅾🆁🅸🆃🆈—🅰🅽🅳 🅰🆄🆃🅷🅾🆁🅸🆃🆈…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi RIJA, really enjoyed your perspective on 🅶🅾🅾🅶🅻🅴 🆁🅰🅽🅺🆂 🅰🆄🆃🅷🅾🆁🅸🆃🆈—🅰🅽🅳 🅰🆄🆃🅷🅾🆁🅸🆃🆈…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395317168399224832",
@@ -1532,7 +1532,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T04:30:11.295Z",
     "timeSincePosted": "9h",
     "authorProfileUrl": "https://www.linkedin.com/in/yashparallel?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAdRgqAB21TBr9Q0AnWjHZq4TvjbYs7Fhgg",
-    "proposedComment": "Hi Yash, really enjoyed your perspective on AI seems to have had a detrimental impact on deep specialisation in most…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Yash, really enjoyed your perspective on AI seems to have had a detrimental impact on deep specialisation in most…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395144232728158208",
@@ -1545,7 +1545,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T17:03:00.218Z",
     "timeSincePosted": "21h",
     "authorProfileUrl": "https://www.linkedin.com/company/the-wix-guys/posts",
-    "proposedComment": "Hi The, really enjoyed your perspective on Think your search optimisation’s sorted because you’re top of Google today? Not…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi The, really enjoyed your perspective on Think your search optimisation’s sorted because you’re top of Google today? Not…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395171716559183872",
@@ -1558,7 +1558,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T18:52:12.874Z",
     "timeSincePosted": "19h",
     "authorProfileUrl": "https://www.linkedin.com/in/hrishikesh-shinde-191563338?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFTMtz0Bn3DKBvn77yOvDt7-E6C889NxM6U",
-    "proposedComment": "Hi hrishikesh, really enjoyed your perspective on Leverage SEO for Unlimited Traffic Potential. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi hrishikesh, really enjoyed your perspective on Leverage SEO for Unlimited Traffic Potential. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395198015835099136",
@@ -1571,7 +1571,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T20:36:43.110Z",
     "timeSincePosted": "17h",
     "authorProfileUrl": "https://www.linkedin.com/company/tijarat-ai-seo-hub/posts",
-    "proposedComment": "Hi TIJARAT, really enjoyed your perspective on 🌟 Client SEO Success Story – Well-facilitated Hospital in…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi TIJARAT, really enjoyed your perspective on 🌟 Client SEO Success Story – Well-facilitated Hospital in…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395098247968550912",
@@ -1584,7 +1584,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T14:00:16.597Z",
     "timeSincePosted": "1d",
     "authorProfileUrl": "https://www.linkedin.com/company/joseph-v-scorese-nationwide-direct-private-lender/posts",
-    "proposedComment": "Hi Joseph, really enjoyed your perspective on Strategies on SEO Marketing for Real Estate Investors Building Their Brand SEO…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Joseph, really enjoyed your perspective on Strategies on SEO Marketing for Real Estate Investors Building Their Brand SEO…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395194884732911616",
@@ -1597,7 +1597,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T20:24:16.597Z",
     "timeSincePosted": "17h",
     "authorProfileUrl": "https://www.linkedin.com/in/hadi-mortazave-a9a793391?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAGBm11YB9XZsnAKF4jy4B_2QSnLuzXhslrY",
-    "proposedComment": "Hi Hadi, really enjoyed your perspective on 📈 SEO is evolving day by day, and Google’s algorithms are also constantly…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Hadi, really enjoyed your perspective on 📈 SEO is evolving day by day, and Google’s algorithms are also constantly…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395098630053064704",
@@ -1610,7 +1610,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T14:01:47.693Z",
     "timeSincePosted": "1d",
     "authorProfileUrl": "https://www.linkedin.com/company/shirelyonads/posts",
-    "proposedComment": "Hi Shire, really enjoyed your perspective on Entity-Based SEO: Why Google Cares About Context, Not Keywords 🔗 Google…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Shire, really enjoyed your perspective on Entity-Based SEO: Why Google Cares About Context, Not Keywords 🔗 Google…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395369188199968768",
@@ -1623,7 +1623,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T07:56:53.782Z",
     "timeSincePosted": "6h",
     "authorProfileUrl": "https://www.linkedin.com/company/soft-iconex/posts",
-    "proposedComment": "Hi Soft, really enjoyed your perspective on 🔍 The SEO Wake-Up Call: Why Your Tools, Extensions, and Workflows Decide Your…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Soft, really enjoyed your perspective on 🔍 The SEO Wake-Up Call: Why Your Tools, Extensions, and Workflows Decide Your…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395392758376718336",
@@ -1636,7 +1636,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T09:30:33.350Z",
     "timeSincePosted": "4h",
     "authorProfileUrl": "https://www.linkedin.com/in/jason-lee-mcim-504b6486?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABJTJ9QBuKfOib-84kAv97w49DbU_f7o3NU",
-    "proposedComment": "Hi Jason, really enjoyed your perspective on SEO isn’t just about the words! Images are a huge (and often missed)…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Jason, really enjoyed your perspective on SEO isn’t just about the words! Images are a huge (and often missed)…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395154322440896512",
@@ -1649,7 +1649,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T17:43:05.793Z",
     "timeSincePosted": "20h",
     "authorProfileUrl": "https://www.linkedin.com/company/pixelmedia360/posts",
-    "proposedComment": "Hi Pixel, really enjoyed your perspective on Why You Need an SEO Expert in Pakistan | Pixel Media 360. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Pixel, really enjoyed your perspective on Why You Need an SEO Expert in Pakistan | Pixel Media 360. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395394884637175809",
@@ -1662,7 +1662,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T09:39:00.290Z",
     "timeSincePosted": "4h",
     "authorProfileUrl": "https://www.linkedin.com/in/saadbaigseo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAE4RcNcB6j5TcFTm_vxxi8oaQxsH_zyCRUY",
-    "proposedComment": "Hi Saad, really enjoyed your perspective on Why is my website not ranking, even after posting content?” The truth is…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Saad, really enjoyed your perspective on Why is my website not ranking, even after posting content?” The truth is…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395101249555234816",
@@ -1675,7 +1675,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T14:12:12.231Z",
     "timeSincePosted": "23h",
     "authorProfileUrl": "https://www.linkedin.com/in/hrishikesh-shinde-191563338?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFTMtz0Bn3DKBvn77yOvDt7-E6C889NxM6U",
-    "proposedComment": "Hi hrishikesh, really enjoyed your perspective on The Search Engine Codebreaker Guide. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi hrishikesh, really enjoyed your perspective on The Search Engine Codebreaker Guide. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395159747034783745",
@@ -1688,7 +1688,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T18:04:39.117Z",
     "timeSincePosted": "20h",
     "authorProfileUrl": "https://www.linkedin.com/in/huzaifa-younas-093890286?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEWKmW8BPsfkWKl9aKIQKP4-re6_JHnPJOA",
-    "proposedComment": "Hi Huzaifa, really enjoyed your perspective on On page SEO improves your rankings. This cheat sheet helps you optimize fast. •…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Huzaifa, really enjoyed your perspective on On page SEO improves your rankings. This cheat sheet helps you optimize fast. •…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395292858188201984",
@@ -1701,7 +1701,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T02:53:35.289Z",
     "timeSincePosted": "11h",
     "authorProfileUrl": "https://www.linkedin.com/in/bodhidigitalmarketing?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAO6WvwBlk6wRfKE_BK6FiiKxyvrVOoUifI",
-    "proposedComment": "Hi Tobias, really enjoyed your perspective on Hey Business Owners and marketers! SEO isn’t dead… It’s morphing with AEO or…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Tobias, really enjoyed your perspective on Hey Business Owners and marketers! SEO isn’t dead… It’s morphing with AEO or…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395313141535981568",
@@ -1714,7 +1714,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T04:14:11.216Z",
     "timeSincePosted": "9h",
     "authorProfileUrl": "https://www.linkedin.com/in/kashif-khatri?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADYFx9oB0SN6M3WNy3FP2NE5qQN9rOkF-Lc",
-    "proposedComment": "Hi Muhammad, really enjoyed your perspective on 💎 I got a client from page 7 to #1 on Google in 47 days. The secret wasn't…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Muhammad, really enjoyed your perspective on 💎 I got a client from page 7 to #1 on Google in 47 days. The secret wasn't…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395338242805481472",
@@ -1727,7 +1727,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T05:53:55.825Z",
     "timeSincePosted": "8h",
     "authorProfileUrl": "https://www.linkedin.com/in/erum-iqbal-432b0b389?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAF-9IKYBF6JlGvMqIO93ahkqVSqvMxYAtmA",
-    "proposedComment": "Hi Erum, really enjoyed your perspective on 🚀 SEO Tip of the Day — Rank Faster in 2025 If you want your website to rank…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Erum, really enjoyed your perspective on 🚀 SEO Tip of the Day — Rank Faster in 2025 If you want your website to rank…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395450974972293120",
@@ -1740,7 +1740,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T13:21:53.268Z",
     "timeSincePosted": "45m",
     "authorProfileUrl": "https://www.linkedin.com/in/rutvika-rachhadiya-2b1165346?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFaFNWUBedBPJmKekmv-9RD-UGZZwmCdEpA",
-    "proposedComment": "Hi Rutvika, really enjoyed your perspective on 🚀 Master Technical SEO: The Backbone of High-Performing Websites in 2026 If…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Rutvika, really enjoyed your perspective on 🚀 Master Technical SEO: The Backbone of High-Performing Websites in 2026 If…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395452639603286016",
@@ -1753,7 +1753,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T13:28:30.147Z",
     "timeSincePosted": "38m",
     "authorProfileUrl": "https://www.linkedin.com/company/trysearchable/posts",
-    "proposedComment": "Hi Searchable, really enjoyed your perspective on Traditional SEO is slowly dying. And most businesses are ignoring it... Even…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Searchable, really enjoyed your perspective on Traditional SEO is slowly dying. And most businesses are ignoring it... Even…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395173115770855424",
@@ -1766,7 +1766,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T18:57:46.472Z",
     "timeSincePosted": "19h",
     "authorProfileUrl": "https://www.linkedin.com/in/gobindo-barman12?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFKbCmoBe33upKaRq2oGqKvviNC_DZG3_po",
-    "proposedComment": "Hi GOBINDO, really enjoyed your perspective on What Actually Works in SEO in 2025. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi GOBINDO, really enjoyed your perspective on What Actually Works in SEO in 2025. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395134292236083200",
@@ -1779,7 +1779,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T16:23:30.220Z",
     "timeSincePosted": "21h",
     "authorProfileUrl": "https://www.linkedin.com/company/bizdevxperts/posts",
-    "proposedComment": "Hi Business, really enjoyed your perspective on In the digital age, visibility = credibility. If your website isn’t ranking,…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Business, really enjoyed your perspective on In the digital age, visibility = credibility. If your website isn’t ranking,…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395098266557906944",
@@ -1792,7 +1792,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T14:00:21.029Z",
     "timeSincePosted": "1d",
     "authorProfileUrl": "https://www.linkedin.com/in/josephvscorese?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA6XV0gBNHDFJfBIqXF53t3g9ZBjrnCLS9M",
-    "proposedComment": "Hi Joseph, really enjoyed your perspective on Strategies on SEO Marketing for Real Estate Investors Building Their Brand SEO…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Joseph, really enjoyed your perspective on Strategies on SEO Marketing for Real Estate Investors Building Their Brand SEO…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395445779596791808",
@@ -1805,7 +1805,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T13:01:14.594Z",
     "timeSincePosted": "1h",
     "authorProfileUrl": "https://www.linkedin.com/in/rutvika-rachhadiya-2b1165346?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFaFNWUBedBPJmKekmv-9RD-UGZZwmCdEpA",
-    "proposedComment": "Hi Rutvika, really enjoyed your perspective on 🚀 Mastering On-Page SEO: The Key to Higher Rankings in 2026 Search engines are…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Rutvika, really enjoyed your perspective on 🚀 Mastering On-Page SEO: The Key to Higher Rankings in 2026 Search engines are…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395111468418883584",
@@ -1818,7 +1818,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T14:52:48.598Z",
     "timeSincePosted": "23h",
     "authorProfileUrl": "https://www.linkedin.com/company/copyrightish/posts",
-    "proposedComment": "Hi Copyrightish, really enjoyed your perspective on Readers don’t visit anymore, the bots do. They summarize your work, outrank…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Copyrightish, really enjoyed your perspective on Readers don’t visit anymore, the bots do. They summarize your work, outrank…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395334966752014336",
@@ -1831,7 +1831,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T05:40:54.753Z",
     "timeSincePosted": "8h",
     "authorProfileUrl": "https://www.linkedin.com/in/sayanth-t-?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFGU_CUB8kMFvUvlUUtex5UdAwlpahooTfY",
-    "proposedComment": "Hi Sayanth, really enjoyed your perspective on Big traffic. Small conversions. The mistake most businesses miss. We all love…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Sayanth, really enjoyed your perspective on Big traffic. Small conversions. The mistake most businesses miss. We all love…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395353494444056576",
@@ -1844,7 +1844,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T06:54:32.099Z",
     "timeSincePosted": "7h",
     "authorProfileUrl": "https://www.linkedin.com/in/mubeen-ansari-0816612b5?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEu8xSEBV-rA8b6xiojeLJtyIG2vc_H3Ro4",
-    "proposedComment": "Hi Mubeen, really enjoyed your perspective on 🌟 𝐔𝐀𝐄 𝐎𝐫𝐠𝐚𝐧𝐢𝐜 𝐓𝐫𝐚𝐟𝐟𝐢𝐜 𝐑𝐞𝐬𝐮𝐥𝐭𝐬 — 𝐑𝐞𝐚𝐥 𝐆𝐫𝐨𝐰𝐭𝐡…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Mubeen, really enjoyed your perspective on 🌟 𝐔𝐀𝐄 𝐎𝐫𝐠𝐚𝐧𝐢𝐜 𝐓𝐫𝐚𝐟𝐟𝐢𝐜 𝐑𝐞𝐬𝐮𝐥𝐭𝐬 — 𝐑𝐞𝐚𝐥 𝐆𝐫𝐨𝐰𝐭𝐡…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395344847634681856",
@@ -1857,7 +1857,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T06:20:10.539Z",
     "timeSincePosted": "7h",
     "authorProfileUrl": "https://www.linkedin.com/in/mayank-singh-6a245b197?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC4pwxoBnEaNVgJNs4OruK3go8Gjqk7_Ooc",
-    "proposedComment": "Hi Mayank, really enjoyed your perspective on You’re not using ChatGPT wrong You’re just using weak prompts. Here are 10…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Mayank, really enjoyed your perspective on You’re not using ChatGPT wrong You’re just using weak prompts. Here are 10…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395120876255334400",
@@ -1870,7 +1870,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T15:30:11.601Z",
     "timeSincePosted": "22h",
     "authorProfileUrl": "https://www.linkedin.com/in/nicole-myers-3aa4b8365?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFqqMzIBEzvZRf8Xoo-RAiW-Df6J9A1OMoM",
-    "proposedComment": "Hi Nicole, really enjoyed your perspective on Felipe’s Forage: Why SEO Actually Matters (and Doesn’t Have to Suck). We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Nicole, really enjoyed your perspective on Felipe’s Forage: Why SEO Actually Matters (and Doesn’t Have to Suck). We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395120328143974400",
@@ -1883,7 +1883,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T15:28:00.921Z",
     "timeSincePosted": "22h",
     "authorProfileUrl": "https://www.linkedin.com/in/hafiz-asad-baig-81431a396?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAGE5HRAB4_6zAvngII65cUd9jiS-4uiLB28",
-    "proposedComment": "Hi Hafiz, really enjoyed your perspective on SEO isn’t magic it’s strategy, consistency, and understanding what people truly…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Hafiz, really enjoyed your perspective on SEO isn’t magic it’s strategy, consistency, and understanding what people truly…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395129676769157120",
@@ -1896,7 +1896,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T16:05:09.807Z",
     "timeSincePosted": "22h",
     "authorProfileUrl": "https://www.linkedin.com/in/ashok-b-gc-32854a353?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFgt9VABSgYTUa02rosdqARNa39wYL6qf9I",
-    "proposedComment": "Hi Ashok, really enjoyed your perspective on Free Marketing & SEO Guide. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Ashok, really enjoyed your perspective on Free Marketing & SEO Guide. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395453224259883008",
@@ -1909,7 +1909,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T13:30:49.540Z",
     "timeSincePosted": "36m",
     "authorProfileUrl": "https://www.linkedin.com/in/farjana-akther-nisha-51a999395?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAGEk1KYBbNsXovILtA4uxhkZviZ9d3zag5A",
-    "proposedComment": "Hi Farjana, really enjoyed your perspective on SEO strategies help boost your website’s visibility and attract the right…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Farjana, really enjoyed your perspective on SEO strategies help boost your website’s visibility and attract the right…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395113766620934145",
@@ -1922,7 +1922,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T15:01:56.532Z",
     "timeSincePosted": "23h",
     "authorProfileUrl": "https://www.linkedin.com/company/lineartech/posts",
-    "proposedComment": "Hi LinearTech,, really enjoyed your perspective on #SEO Did you know? 🤔 You should update your existing blog posts regularly.…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi LinearTech,, really enjoyed your perspective on #SEO Did you know? 🤔 You should update your existing blog posts regularly.…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395444054592745472",
@@ -1935,7 +1935,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T12:54:23.321Z",
     "timeSincePosted": "1h",
     "authorProfileUrl": "https://www.linkedin.com/in/aditi-shahi-go12digi?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFtyTZABGnKm4vsCAXRWYa2iz1zCSEDuQBI",
-    "proposedComment": "Hi Aditi, really enjoyed your perspective on On-Page SEO isn’t just about keywords — it’s about making your website…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Aditi, really enjoyed your perspective on On-Page SEO isn’t just about keywords — it’s about making your website…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395250915550699520",
@@ -1948,7 +1948,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T00:06:55.385Z",
     "timeSincePosted": "14h",
     "authorProfileUrl": "https://www.linkedin.com/in/justinwesthundredsofcustomers?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAL_0HkB9UBmUkWIeDPjphrvE7kUuDJ_dEE",
-    "proposedComment": "Hi Justin, really enjoyed your perspective on 🎬 If Indiana Jones were a marketer… he’d have some strong opinions about your…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Justin, really enjoyed your perspective on 🎬 If Indiana Jones were a marketer… he’d have some strong opinions about your…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395189348834385920",
@@ -1961,7 +1961,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T20:02:16.736Z",
     "timeSincePosted": "18h",
     "authorProfileUrl": "https://www.linkedin.com/in/hrishikesh-shinde-191563338?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFTMtz0Bn3DKBvn77yOvDt7-E6C889NxM6U",
-    "proposedComment": "Hi hrishikesh, really enjoyed your perspective on Transform Your Online Presence with High-Potential SEO. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi hrishikesh, really enjoyed your perspective on Transform Your Online Presence with High-Potential SEO. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395220830798118912",
@@ -1974,7 +1974,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T22:07:22.621Z",
     "timeSincePosted": "16h",
     "authorProfileUrl": "https://www.linkedin.com/company/forward-digital-consultancy/posts",
-    "proposedComment": "Hi Forward, really enjoyed your perspective on Google's algorithm has evolved! 🧠 It's no longer just about matching keywords;…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Forward, really enjoyed your perspective on Google's algorithm has evolved! 🧠 It's no longer just about matching keywords;…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395353774086631424",
@@ -1987,7 +1987,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T06:55:38.771Z",
     "timeSincePosted": "7h",
     "authorProfileUrl": "https://www.linkedin.com/company/abedintech/posts",
-    "proposedComment": "Hi Abedin, really enjoyed your perspective on Entity Optimization: Boosting EEAT Signals and Traffic with Best Practices. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Abedin, really enjoyed your perspective on Entity Optimization: Boosting EEAT Signals and Traffic with Best Practices. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395393076443226112",
@@ -2000,7 +2000,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T09:31:49.183Z",
     "timeSincePosted": "4h",
     "authorProfileUrl": "https://www.linkedin.com/in/seofreelancerindia?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABJPjm0BtkV2pi6qPw22JbegcCSpW1wVOkY",
-    "proposedComment": "Hi Himanshu, really enjoyed your perspective on Top 5 SEO Trends Ahead. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Himanshu, really enjoyed your perspective on Top 5 SEO Trends Ahead. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395113131620069376",
@@ -2013,7 +2013,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T14:59:25.136Z",
     "timeSincePosted": "23h",
     "authorProfileUrl": "https://www.linkedin.com/in/rahul-kumar-verma-0a4b8a37a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAF3Kb_wBd_ufjYHZIj3Ta8Xl0Qe3DIDTgE4",
-    "proposedComment": "Hi Rahul, really enjoyed your perspective on Search Everywhere Optimization is the new way to increase online visibility.…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Rahul, really enjoyed your perspective on Search Everywhere Optimization is the new way to increase online visibility.…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395183799967309824",
@@ -2026,7 +2026,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T19:40:13.783Z",
     "timeSincePosted": "18h",
     "authorProfileUrl": "https://www.linkedin.com/company/learnwithpraveen/posts",
-    "proposedComment": "Hi Praveen, really enjoyed your perspective on Chapter 8- Jack of all trades, master of none Chapter 9 - How SEM came into the…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Praveen, really enjoyed your perspective on Chapter 8- Jack of all trades, master of none Chapter 9 - How SEM came into the…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395199393160925184",
@@ -2039,7 +2039,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T20:42:11.490Z",
     "timeSincePosted": "17h",
     "authorProfileUrl": "https://www.linkedin.com/in/hrishi-shinde-bb97b737b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAF3ptP0BZh0NqywofulMkQefoiJOrs1QBZk",
-    "proposedComment": "Hi Hrishi, really enjoyed your perspective on Effective SEO Strategies for Bloggers and Beyond. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Hrishi, really enjoyed your perspective on Effective SEO Strategies for Bloggers and Beyond. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395154252832133120",
@@ -2052,7 +2052,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T17:42:49.197Z",
     "timeSincePosted": "20h",
     "authorProfileUrl": "https://www.linkedin.com/company/boost-hive-marketing/posts",
-    "proposedComment": "Hi Boost, really enjoyed your perspective on 7 Best AI SEO Tools For Big Business. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Boost, really enjoyed your perspective on 7 Best AI SEO Tools For Big Business. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395412617873502209",
@@ -2065,7 +2065,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T10:49:28.223Z",
     "timeSincePosted": "3h",
     "authorProfileUrl": "https://www.linkedin.com/in/mersudinforbes?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAZ7tFEBaCcZWb8UDWkKBUtKvNYSXeFIw68",
-    "proposedComment": "Hi Mersudin, really enjoyed your perspective on Senior SEO Executive. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Mersudin, really enjoyed your perspective on Senior SEO Executive. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395158274179792896",
@@ -2078,7 +2078,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T17:58:47.961Z",
     "timeSincePosted": "20h",
     "authorProfileUrl": "https://www.linkedin.com/in/nickjerome?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAP12FEBmuM-8zvQ6aaqo97w22WTLGLXFY8",
-    "proposedComment": "Hi Nick, really enjoyed your perspective on Manager, Digital Marketing. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Nick, really enjoyed your perspective on Manager, Digital Marketing. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395186522901233664",
@@ -2091,7 +2091,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T19:51:02.981Z",
     "timeSincePosted": "18h",
     "authorProfileUrl": "https://www.linkedin.com/in/scottbirke?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAQuDeQB1gKzUIY30GM6E5pPelgQowf6eJ8",
-    "proposedComment": "Hi Scott, really enjoyed your perspective on Evergreen Editor. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Scott, really enjoyed your perspective on Evergreen Editor. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395370017409769472",
@@ -2104,7 +2104,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T08:00:11.481Z",
     "timeSincePosted": "6h",
     "authorProfileUrl": "https://www.linkedin.com/in/tomasloucky?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACjtZUkBW92nJrw_9hnwPnp0mK-GOPWDxqE",
-    "proposedComment": "Hi Tomas, really enjoyed your perspective on Produced #119: SEO, AEO and GEO, Growing Authentically with AI and Maximising…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Tomas, really enjoyed your perspective on Produced #119: SEO, AEO and GEO, Growing Authentically with AI and Maximising…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395153659522600961",
@@ -2117,7 +2117,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T17:40:27.741Z",
     "timeSincePosted": "20h",
     "authorProfileUrl": "https://www.linkedin.com/in/russelltoon?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAQIer8BjLgHUu-Xxa7qCGXf6byTN2D5xo0",
-    "proposedComment": "Hi Russell, really enjoyed your perspective on Manager, eCommerce & Digital Growth. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Russell, really enjoyed your perspective on Manager, eCommerce & Digital Growth. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395357155630989312",
@@ -2130,7 +2130,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T07:09:04.994Z",
     "timeSincePosted": "6h",
     "authorProfileUrl": "https://www.linkedin.com/in/kavya-dugar-7a46a8145?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACMp_GwBXNUE0vYIQpcawCyKYJEU4Aco-TY",
-    "proposedComment": "Hi Kavya, really enjoyed your perspective on Head of Product and Technology. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Kavya, really enjoyed your perspective on Head of Product and Technology. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395418583796801536",
@@ -2143,7 +2143,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T11:13:10.610Z",
     "timeSincePosted": "2h",
     "authorProfileUrl": "https://www.linkedin.com/company/se-ranking/posts",
-    "proposedComment": "Hi SE, really enjoyed your perspective on AI x SEO: What just happened? ✨. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi SE, really enjoyed your perspective on AI x SEO: What just happened? ✨. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395282714393923584",
@@ -2156,7 +2156,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T02:13:16.820Z",
     "timeSincePosted": "11h",
     "authorProfileUrl": "https://www.linkedin.com/in/jibran-khan-3a59151b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAQ6kO0BJyEXUUGCTtJ4lzt0CqCGIbYbyGM",
-    "proposedComment": "Hi Jibran, really enjoyed your perspective on Freelance SEO — JAK 82 as a Global White Label Specialist from Karachi. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Jibran, really enjoyed your perspective on Freelance SEO — JAK 82 as a Global White Label Specialist from Karachi. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395350427145392128",
@@ -2169,7 +2169,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T06:42:20.798Z",
     "timeSincePosted": "7h",
     "authorProfileUrl": "https://www.linkedin.com/in/akhilesh-y-6371bb182?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACsZtMsB-b4swytZD14CR9kYcYMY3e0OWiU",
-    "proposedComment": "Hi Akhilesh, really enjoyed your perspective on We Are Hiring - Freshers, Internship (College Student) & Entry Level candidate,…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Akhilesh, really enjoyed your perspective on We Are Hiring - Freshers, Internship (College Student) & Entry Level candidate,…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395320714100203520",
@@ -2182,7 +2182,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T04:44:16.656Z",
     "timeSincePosted": "9h",
     "authorProfileUrl": "https://www.linkedin.com/in/anup-thakur-bbaa4626a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEIBiz4B9AiXTXpL55sgJ1rBayNKNRpMKrg",
-    "proposedComment": "Hi Anup, really enjoyed your perspective on SEO Gurus Will Hate This but It Is True**. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Anup, really enjoyed your perspective on SEO Gurus Will Hate This but It Is True**. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395370782778073088",
@@ -2195,7 +2195,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T08:03:13.959Z",
     "timeSincePosted": "6h",
     "authorProfileUrl": "https://www.linkedin.com/in/creativewebmall?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAB9hxYBLQzgcYIa3DTOz8WjlcTEObiMEC8",
-    "proposedComment": "Hi Sony, really enjoyed your perspective on Why Technical SEO Is the Backbone of Every Successful Website?. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Sony, really enjoyed your perspective on Why Technical SEO Is the Backbone of Every Successful Website?. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395236116536295424",
@@ -2208,7 +2208,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T23:08:07.025Z",
     "timeSincePosted": "14h",
     "authorProfileUrl": "https://www.linkedin.com/in/moath-alissa-4a255b143?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACLJjfoBl5vmKVvZjCObkf-tg0j6dnO6q3Q",
-    "proposedComment": "Hi Moath, really enjoyed your perspective on #أخصائي/ #أخصائية #تسويق نحن شركة الشلالات الخضراء نعلن عن فرصة عمل:…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Moath, really enjoyed your perspective on #أخصائي/ #أخصائية #تسويق نحن شركة الشلالات الخضراء نعلن عن فرصة عمل:…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395178524019597312",
@@ -2221,7 +2221,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T19:19:15.899Z",
     "timeSincePosted": "18h",
     "authorProfileUrl": "https://www.linkedin.com/in/ianaward?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAHQQ0oB4vNZXBTgrKoytwWBAAydCOvJ96M",
-    "proposedComment": "Hi Ian, really enjoyed your perspective on Hey all my loyal followers, todays post is a plug for my Digital Agency. 🚀…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Ian, really enjoyed your perspective on Hey all my loyal followers, todays post is a plug for my Digital Agency. 🚀…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395405941405487104",
@@ -2234,7 +2234,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T10:22:56.429Z",
     "timeSincePosted": "3h",
     "authorProfileUrl": "https://www.linkedin.com/in/naseef-kpo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABPCLmIBXX743UXu6BttGhkVtpK3rLV2D8U",
-    "proposedComment": "Hi Naseef, really enjoyed your perspective on Off-page SEO Specialist. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Naseef, really enjoyed your perspective on Off-page SEO Specialist. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395430415332933632",
@@ -2247,7 +2247,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T12:00:11.468Z",
     "timeSincePosted": "2h",
     "authorProfileUrl": "https://www.linkedin.com/in/sunbpo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACayVKQBbJhN-VtBIGlmWA-WiZJlvBzzVew",
-    "proposedComment": "Hi Ramesh, really enjoyed your perspective on Stop Guessing Your SEO. Start Measuring What Actually Matters.. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Ramesh, really enjoyed your perspective on Stop Guessing Your SEO. Start Measuring What Actually Matters.. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395453243285372929",
@@ -2260,7 +2260,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T13:30:54.076Z",
     "timeSincePosted": "37m",
     "authorProfileUrl": "https://www.linkedin.com/in/alisufyangondal?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACGNDXUBs-IYW4wlogUMBmIH6jkby2JqYsY",
-    "proposedComment": "Hi Ali, really enjoyed your perspective on How to Audit Your Website for SEO (Step-by-Step). We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Ali, really enjoyed your perspective on How to Audit Your Website for SEO (Step-by-Step). We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395366743625601024",
@@ -2273,7 +2273,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T07:47:10.950Z",
     "timeSincePosted": "6h",
     "authorProfileUrl": "https://www.linkedin.com/in/mubashar-rana?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACAicosB5xykuzqM1Riw9TxylfzcRPPtHzU",
-    "proposedComment": "Hi Mubashar, really enjoyed your perspective on SEO Strategy That Grew a Website from 0 to 2,000+ Daily Visitors. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Mubashar, really enjoyed your perspective on SEO Strategy That Grew a Website from 0 to 2,000+ Daily Visitors. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395333524746076161",
@@ -2286,7 +2286,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T05:35:10.952Z",
     "timeSincePosted": "8h",
     "authorProfileUrl": "https://www.linkedin.com/company/aniruptech/posts",
-    "proposedComment": "Hi Xtreme, really enjoyed your perspective on Top SEO Experts in India: Xtremeads. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Xtreme, really enjoyed your perspective on Top SEO Experts in India: Xtremeads. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395407751062945792",
@@ -2299,7 +2299,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T10:30:07.885Z",
     "timeSincePosted": "3h",
     "authorProfileUrl": "https://www.linkedin.com/in/shreyadebnath192?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAChyNOAB0eSpPSbc5bEMVtwVHo0f8QGMSAA",
-    "proposedComment": "Hi Shreya, really enjoyed your perspective on Google Responds to EU Probe Over “Parasite SEO” Crackdown. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Shreya, really enjoyed your perspective on Google Responds to EU Probe Over “Parasite SEO” Crackdown. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395322536349286400",
@@ -2312,7 +2312,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T04:51:31.114Z",
     "timeSincePosted": "9h",
     "authorProfileUrl": "https://www.linkedin.com/in/iamdaani?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACgZkw0Bcj7cSS_gTT_2dfi6pWtTw7D3ZC8",
-    "proposedComment": "Hi Danyal, really enjoyed your perspective on Ever feel like you're missing something? This might be it I once believed local…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Danyal, really enjoyed your perspective on Ever feel like you're missing something? This might be it I once believed local…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395359054291755008",
@@ -2325,7 +2325,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T07:16:37.670Z",
     "timeSincePosted": "6h",
     "authorProfileUrl": "https://www.linkedin.com/in/utk943098?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC7qvsYBMfJj20T7kxynHpv4IXGdiQmZTL0",
-    "proposedComment": "Hi Utkarsh, really enjoyed your perspective on Mastering Technical SEO: The Backbone of High Google Rankings. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Utkarsh, really enjoyed your perspective on Mastering Technical SEO: The Backbone of High Google Rankings. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395149697067307008",
@@ -2338,7 +2338,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T17:24:43.018Z",
     "timeSincePosted": "20h",
     "authorProfileUrl": "https://www.linkedin.com/in/abu-tayubseo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEfji-8B9dLYI3ddFWMX5ov2FloX2u7XhrM",
-    "proposedComment": "Hi Abu, really enjoyed your perspective on Why 80% of Real Estate Agents Fail at SEO — And How to Fix It. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Abu, really enjoyed your perspective on Why 80% of Real Estate Agents Fail at SEO — And How to Fix It. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395450426311168000",
@@ -2351,7 +2351,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T13:19:42.457Z",
     "timeSincePosted": "48m",
     "authorProfileUrl": "https://www.linkedin.com/in/kwekuduncan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAQsNngBAkwliX8wUJKCGT-iV0qC9aeNb6U",
-    "proposedComment": "Hi Kweku, really enjoyed your perspective on What You Need to Know About AI, SEO, and Brand Visibility (AEO & GEO). We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Kweku, really enjoyed your perspective on What You Need to Know About AI, SEO, and Brand Visibility (AEO & GEO). We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395162351701868544",
@@ -2364,7 +2364,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T18:15:00.118Z",
     "timeSincePosted": "19h",
     "authorProfileUrl": "https://www.linkedin.com/in/igor-volovoy?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABnmfDkBe0-g5Cd06aMJIDNJMt3C7AX9t_Q",
-    "proposedComment": "Hi Igor, really enjoyed your perspective on Avoid Google Filters by Eliminating These SEO Mistakes. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Igor, really enjoyed your perspective on Avoid Google Filters by Eliminating These SEO Mistakes. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395418940342067200",
@@ -2377,7 +2377,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T11:14:35.617Z",
     "timeSincePosted": "2h",
     "authorProfileUrl": "https://www.linkedin.com/company/dakshrajenterprise/posts",
-    "proposedComment": "Hi Dakshraj, really enjoyed your perspective on Why AI Content Sounds the Same and How SEO Pros Can Fix It?. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Dakshraj, really enjoyed your perspective on Why AI Content Sounds the Same and How SEO Pros Can Fix It?. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395325091234045952",
@@ -2390,7 +2390,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T05:01:40.246Z",
     "timeSincePosted": "9h",
     "authorProfileUrl": "https://www.linkedin.com/in/abhilash-pradeep-bhargava?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABobaSUBKPMg2TETusXYf6xztnyjV4Rtpvw",
-    "proposedComment": "Hi Abhilash, really enjoyed your perspective on Hyperlocal SEO — Winning in the Last Mile of Search. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Abhilash, really enjoyed your perspective on Hyperlocal SEO — Winning in the Last Mile of Search. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395364812324667392",
@@ -2403,7 +2403,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T07:39:30.492Z",
     "timeSincePosted": "6h",
     "authorProfileUrl": "https://www.linkedin.com/company/bigcloudy/posts",
-    "proposedComment": "Hi BigCloudy, really enjoyed your perspective on How SEO VPS Hosting Directly Boosts Your Rankings. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi BigCloudy, really enjoyed your perspective on How SEO VPS Hosting Directly Boosts Your Rankings. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395332251066044416",
@@ -2416,7 +2416,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T05:30:07.283Z",
     "timeSincePosted": "8h",
     "authorProfileUrl": "https://www.linkedin.com/in/manoj-modii?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADj4bKQBBog8CkyGHaq5GItd81wWDozsh3o",
-    "proposedComment": "Hi Manoj, really enjoyed your perspective on SEO Optimization Face-Off: Shopify vs Hand-Coded Websites. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Manoj, really enjoyed your perspective on SEO Optimization Face-Off: Shopify vs Hand-Coded Websites. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395442459012644864",
@@ -2429,7 +2429,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T12:48:02.905Z",
     "timeSincePosted": "1h",
     "authorProfileUrl": "https://www.linkedin.com/in/sardar-israt-zahan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAF4ZM5EBSU9TlHh8crGMm2a-Vsd-ASFrb-E",
-    "proposedComment": "Hi Sardar, really enjoyed your perspective on 🔄 SEO Hack #4: Refresh & Repurpose Your Existing Content. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Sardar, really enjoyed your perspective on 🔄 SEO Hack #4: Refresh & Repurpose Your Existing Content. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395183423557971968",
@@ -2442,7 +2442,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T19:38:44.040Z",
     "timeSincePosted": "18h",
     "authorProfileUrl": "https://www.linkedin.com/in/abbymurray?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAts8BIBEL42gNKr5Vbae-6Gv9ysGPiQwIE",
-    "proposedComment": "Hi Abby, really enjoyed your perspective on I have terrible news. There’s a new Yelp in town. Every AI model out…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Abby, really enjoyed your perspective on I have terrible news. There’s a new Yelp in town. Every AI model out…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395394370553671680",
@@ -2455,7 +2455,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T09:36:57.723Z",
     "timeSincePosted": "4h",
     "authorProfileUrl": "https://www.linkedin.com/in/vassilios-andreadis-panagiotidis-244336382?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAF5goNQBZlnH3d_jtl9SstNnJ7DDLutt3Y0",
-    "proposedComment": "Hi Vassilios, really enjoyed your perspective on Hey guys! Really exciting news ahead — I’ve just invested in a domain that’s…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Vassilios, really enjoyed your perspective on Hey guys! Really exciting news ahead — I’ve just invested in a domain that’s…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395118160385003521",
@@ -2468,7 +2468,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T15:19:24.087Z",
     "timeSincePosted": "22h",
     "authorProfileUrl": "https://www.linkedin.com/in/stephen-a-vernon?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABp_A9EB7lRLpd1R_y5YYvoaW_SCyc6gOqo",
-    "proposedComment": "Hi Stephen, really enjoyed your perspective on Base Hit Marketing | Local SEO Services & Audits. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Stephen, really enjoyed your perspective on Base Hit Marketing | Local SEO Services & Audits. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395215725164142592",
@@ -2481,7 +2481,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T21:47:05.343Z",
     "timeSincePosted": "16h",
     "authorProfileUrl": "https://www.linkedin.com/company/leadadvisors/posts",
-    "proposedComment": "Hi LeadAdvisors, really enjoyed your perspective on CBD SEO in 2025: How to Rank, Build Authority & Stay Compliant. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi LeadAdvisors, really enjoyed your perspective on CBD SEO in 2025: How to Rank, Build Authority & Stay Compliant. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395451038935449600",
@@ -2494,7 +2494,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T13:22:08.518Z",
     "timeSincePosted": "46m",
     "authorProfileUrl": "https://www.linkedin.com/in/peterrota?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAWXD-QB0wLKege-KCF2l764UNowcHwAYi4",
-    "proposedComment": "Hi Peter, really enjoyed your perspective on Enterprise seo is 80% reporting 20% actual seo work. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Peter, really enjoyed your perspective on Enterprise seo is 80% reporting 20% actual seo work. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395249573352394753",
@@ -2507,7 +2507,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T00:01:35.380Z",
     "timeSincePosted": "14h",
     "authorProfileUrl": "https://www.linkedin.com/in/vignesh-pg-b051ba300?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEzqkLUBLsgvwPGZz_NUctihumSSGLVf6FY",
-    "proposedComment": "Hi VIGNESH, really enjoyed your perspective on Branding vs. Marketing: What Actually Defines Your Business? Many people think…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi VIGNESH, really enjoyed your perspective on Branding vs. Marketing: What Actually Defines Your Business? Many people think…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395450995922628608",
@@ -2520,7 +2520,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T13:21:58.263Z",
     "timeSincePosted": "46m",
     "authorProfileUrl": "https://www.linkedin.com/in/alisufyangondal?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACGNDXUBs-IYW4wlogUMBmIH6jkby2JqYsY",
-    "proposedComment": "Hi Ali, really enjoyed your perspective on How SEO Helped a Client Get 5× Traffic in 3 Months. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Ali, really enjoyed your perspective on How SEO Helped a Client Get 5× Traffic in 3 Months. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395324692888293376",
@@ -2533,7 +2533,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T05:00:05.273Z",
     "timeSincePosted": "9h",
     "authorProfileUrl": "https://www.linkedin.com/in/usmanalii?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAELu13sBwqguWlAb3OO39QSrdgBPkLFm71Y",
-    "proposedComment": "Hi Usman, really enjoyed your perspective on Most Important Ranking Factor Every SEO Should Prioritize. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Usman, really enjoyed your perspective on Most Important Ranking Factor Every SEO Should Prioritize. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395251784639971329",
@@ -2546,7 +2546,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T00:10:22.592Z",
     "timeSincePosted": "13h",
     "authorProfileUrl": "https://www.linkedin.com/in/%E5%9B%BD%E8%89%AF-%E5%A4%A7%E6%A7%BB%EF%BC%88otsuki%EF%BC%89-6aa61372?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA9lkSIBJt1DVPoIVgVcc91-ndsePeCI90Q",
-    "proposedComment": "Hi 大槻（OTSUKI）国良, really enjoyed your perspective on 【China G53】 Why Monokai Corporation's Website Can Be Your \"Capable Partner\". We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi 大槻（OTSUKI）国良, really enjoyed your perspective on 【China G53】 Why Monokai Corporation's Website Can Be Your \"Capable Partner\". We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395439781003862016",
@@ -2559,7 +2559,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T12:37:24.418Z",
     "timeSincePosted": "1h",
     "authorProfileUrl": "https://www.linkedin.com/in/design-den-9571b938b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAF_1uRMBZeS8zgWrm5ZCCDF2QRNMSbeAF6U",
-    "proposedComment": "Hi DESIGN, really enjoyed your perspective on SEO Services. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi DESIGN, really enjoyed your perspective on SEO Services. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395153356857688064",
@@ -2572,7 +2572,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T17:39:15.580Z",
     "timeSincePosted": "20h",
     "authorProfileUrl": "https://www.linkedin.com/in/faizan-dawood-a6a8b651?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAr9WXIBV4VuCow2yhgcIgia7-RXdMhpnrs",
-    "proposedComment": "Hi Faizan, really enjoyed your perspective on 𝗪𝗲’𝗿𝗲 𝗚𝗿𝗼𝘄𝗶𝗻𝗴 — 𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗧𝗲𝗮𝗺! Multiple Positions Open |…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Faizan, really enjoyed your perspective on 𝗪𝗲’𝗿𝗲 𝗚𝗿𝗼𝘄𝗶𝗻𝗴 — 𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗧𝗲𝗮𝗺! Multiple Positions Open |…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395218640217853952",
@@ -2585,7 +2585,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T21:58:40.346Z",
     "timeSincePosted": "16h",
     "authorProfileUrl": "https://www.linkedin.com/in/brandon-lazovic?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB4wunwBY0S7L8VeD1-7l5yyGtukWSotqJ8",
-    "proposedComment": "Hi Brandon, really enjoyed your perspective on These are interesting findings for local SEO; while reviews are always touted…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Brandon, really enjoyed your perspective on These are interesting findings for local SEO; while reviews are always touted…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395406095516835840",
@@ -2598,7 +2598,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T10:23:33.172Z",
     "timeSincePosted": "3h",
     "authorProfileUrl": "https://www.linkedin.com/in/jogesh-kumar-b825b3238?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADstUdIBJl48ye5wperhWKJZ9xE4V9cE_GQ",
-    "proposedComment": "Hi Jogesh, really enjoyed your perspective on How AI is Reshaping Search and Buyer Behavior by Jogesh Kumar (Mark) SEO Expert. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Jogesh, really enjoyed your perspective on How AI is Reshaping Search and Buyer Behavior by Jogesh Kumar (Mark) SEO Expert. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395168530373070848",
@@ -2611,7 +2611,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T18:39:33.228Z",
     "timeSincePosted": "19h",
     "authorProfileUrl": "https://www.linkedin.com/in/akshay-paliwal-aksa2024?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADPe7csBsv62Rs1UTpAjh2YUaCLrq5np-mo",
-    "proposedComment": "Hi Akshay, really enjoyed your perspective on Digital Marketing Services | Online Digital Marketing Agency in India. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Akshay, really enjoyed your perspective on Digital Marketing Services | Online Digital Marketing Agency in India. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395367634231529472",
@@ -2624,7 +2624,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T07:50:43.287Z",
     "timeSincePosted": "6h",
     "authorProfileUrl": "https://www.linkedin.com/company/versa-forge/posts",
-    "proposedComment": "Hi Versa, really enjoyed your perspective on Why Your Business Needs a Google-Guideline-First SEO Partner in 2025. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Versa, really enjoyed your perspective on Why Your Business Needs a Google-Guideline-First SEO Partner in 2025. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395403561607655424",
@@ -2637,7 +2637,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T10:13:29.041Z",
     "timeSincePosted": "3h",
     "authorProfileUrl": "https://www.linkedin.com/in/bhagya-satya-vani-koppula-aba59b336?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFRyxW4BBQa_XbAxpxP58CzfIhlZzqE_MRg",
-    "proposedComment": "Hi Bhagya, really enjoyed your perspective on Privacy laws now dictate where companies host their websites. Compliance became…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Bhagya, really enjoyed your perspective on Privacy laws now dictate where companies host their websites. Compliance became…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395324840125132800",
@@ -2650,7 +2650,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T05:00:40.377Z",
     "timeSincePosted": "9h",
     "authorProfileUrl": "https://www.linkedin.com/in/rudhrahkeshav?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABoeEBIBlVKtSP9l53aEmVGLH_uIY0Pk-QI",
-    "proposedComment": "Hi Keshav, really enjoyed your perspective on Hot jobs in search marketing are reshaping careers. The latest roles blend SEO,…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Keshav, really enjoyed your perspective on Hot jobs in search marketing are reshaping careers. The latest roles blend SEO,…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395162659953864704",
@@ -2663,7 +2663,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T18:16:13.611Z",
     "timeSincePosted": "19h",
     "authorProfileUrl": "https://www.linkedin.com/in/jencornwell?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA2sHqsB6lwbP254pLKaFE0fJmwTKlE06c4",
-    "proposedComment": "Hi Jen, really enjoyed your perspective on Best Practices For Answer Engine Optimization (AEO). Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Jen, really enjoyed your perspective on Best Practices For Answer Engine Optimization (AEO). Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395412522742358017",
@@ -2676,7 +2676,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T10:49:05.542Z",
     "timeSincePosted": "3h",
     "authorProfileUrl": "https://www.linkedin.com/in/sojibdas-freelancer?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADyLfwUBYb29aRzblMKzHN6byqh6Sg4mqSU",
-    "proposedComment": "Hi Sojib, really enjoyed your perspective on My Ultimate AI SEO Tools Pack. AI isn’t replacing SEO. It’s elevating it. In…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Sojib, really enjoyed your perspective on My Ultimate AI SEO Tools Pack. AI isn’t replacing SEO. It’s elevating it. In…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395334833842839552",
@@ -2689,7 +2689,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T05:40:23.065Z",
     "timeSincePosted": "8h",
     "authorProfileUrl": "https://www.linkedin.com/in/esratjahanoishi?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEzLyF0BD13ko32h1PPDSG-uonAxXlveHEM",
-    "proposedComment": "Hi Esrat, really enjoyed your perspective on Is your current website architecture helping or hurting your SEO performance?…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Esrat, really enjoyed your perspective on Is your current website architecture helping or hurting your SEO performance?…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395446971274096640",
@@ -2702,7 +2702,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T13:05:58.712Z",
     "timeSincePosted": "1h",
     "authorProfileUrl": "https://www.linkedin.com/in/tonyyan-quickcreator?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAACroIYBPXWyq9x2pFd5rnhPlQKKYwLtPUE",
-    "proposedComment": "Hi Tony, really enjoyed your perspective on Tested our new multi-language GEO feature across 12 markets. Unexpected…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Tony, really enjoyed your perspective on Tested our new multi-language GEO feature across 12 markets. Unexpected…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395158584721960960",
@@ -2715,7 +2715,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T18:00:02.000Z",
     "timeSincePosted": "20h",
     "authorProfileUrl": "https://www.linkedin.com/company/markcommerce/posts",
-    "proposedComment": "Hi MarkCommerce, really enjoyed your perspective on SEO for eCommerce: How to Rank Your Products Higher on Google. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi MarkCommerce, really enjoyed your perspective on SEO for eCommerce: How to Rank Your Products Higher on Google. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395367737084059648",
@@ -2728,7 +2728,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T07:51:07.809Z",
     "timeSincePosted": "6h",
     "authorProfileUrl": "https://www.linkedin.com/in/adriaan-dekker-google-ads-freelancer-rotterdam?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABb3Dz8Bg2S1BX_0PcbcljrmRwD2dh5s2VU",
-    "proposedComment": "Hi Adriaan, really enjoyed your perspective on 🚨 50+ 𝗛𝗼𝘂𝗿𝘀 𝗟𝗮𝘁𝗲𝗿: 𝗧𝗵𝗲 𝗨𝗹𝘁𝗶𝗺𝗮𝘁𝗲 𝗚𝗼𝗼𝗴𝗹𝗲 𝗦𝗲𝗮𝗿𝗰𝗵…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Adriaan, really enjoyed your perspective on 🚨 50+ 𝗛𝗼𝘂𝗿𝘀 𝗟𝗮𝘁𝗲𝗿: 𝗧𝗵𝗲 𝗨𝗹𝘁𝗶𝗺𝗮𝘁𝗲 𝗚𝗼𝗼𝗴𝗹𝗲 𝗦𝗲𝗮𝗿𝗰𝗵…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395317178129985536",
@@ -2741,7 +2741,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T04:30:13.615Z",
     "timeSincePosted": "9h",
     "authorProfileUrl": "https://www.linkedin.com/in/sunny-grewal?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADHt7-8ByNaBhxCNA25wnrqVHdYSa-73y7s",
-    "proposedComment": "Hi Sunny, really enjoyed your perspective on 60+ SEO Tools. (Updated).❤️ Here is a category list of SEO tools: 1. Video 2.…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Sunny, really enjoyed your perspective on 60+ SEO Tools. (Updated).❤️ Here is a category list of SEO tools: 1. Video 2.…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395139474143260672",
@@ -2754,7 +2754,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T16:44:05.683Z",
     "timeSincePosted": "21h",
     "authorProfileUrl": "https://www.linkedin.com/in/khushal-setia-039270355?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFh-Xy0BGVV6eXagTvYvalXkRjQCr4-2Tk0",
-    "proposedComment": "Hi Khushal, really enjoyed your perspective on How AI Is Changing the Future of SEO (and What Businesses Must Do Now). Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Khushal, really enjoyed your perspective on How AI Is Changing the Future of SEO (and What Businesses Must Do Now). Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395210760060227586",
@@ -2767,7 +2767,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T21:27:21.570Z",
     "timeSincePosted": "16h",
     "authorProfileUrl": "https://www.linkedin.com/in/clarawright?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACZ0UTUBxzB9MlK65Byrxmwx3GFyaY5tisk",
-    "proposedComment": "Hi Clara, really enjoyed your perspective on Why Invest in an SEO Package Los Angeles?. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Clara, really enjoyed your perspective on Why Invest in an SEO Package Los Angeles?. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395150236316307456",
@@ -2780,7 +2780,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T17:26:51.585Z",
     "timeSincePosted": "20h",
     "authorProfileUrl": "https://www.linkedin.com/company/abutayub/posts",
-    "proposedComment": "Hi Boost, really enjoyed your perspective on Why 80% of Real Estate Agents Fail at SEO — And How to Fix It. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Boost, really enjoyed your perspective on Why 80% of Real Estate Agents Fail at SEO — And How to Fix It. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395184688807616536",
@@ -2793,7 +2793,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T19:43:45.699Z",
     "timeSincePosted": "18h",
     "authorProfileUrl": "https://www.linkedin.com/in/neilkpatel?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAA6iRMBaolUyvRZOF1IDpmNtRPh98F54l8",
-    "proposedComment": "Hi Neil, really enjoyed your perspective on Blog posts aren’t losing traffic because your SEO is bad. They’re losing…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Neil, really enjoyed your perspective on Blog posts aren’t losing traffic because your SEO is bad. They’re losing…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395332144648282112",
@@ -2806,7 +2806,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T05:29:41.911Z",
     "timeSincePosted": "8h",
     "authorProfileUrl": "https://www.linkedin.com/company/pulsedigimedia/posts",
-    "proposedComment": "Hi Pulse, really enjoyed your perspective on Long-Tail Keywords: The B2B SEO Game-Changer. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Pulse, really enjoyed your perspective on Long-Tail Keywords: The B2B SEO Game-Changer. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395275602204844032",
@@ -2819,7 +2819,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T01:45:01.142Z",
     "timeSincePosted": "12h",
     "authorProfileUrl": "https://www.linkedin.com/in/abhinav-puri-?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABb88g4Bn0ROHLuVqzxBzobyXSq9hk3zGBs",
-    "proposedComment": "Hi Abhinav, really enjoyed your perspective on Golden SEO Tip: How we took this site from 1K to 10K visitors/day — by deleting…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Abhinav, really enjoyed your perspective on Golden SEO Tip: How we took this site from 1K to 10K visitors/day — by deleting…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395397596497838080",
@@ -2832,7 +2832,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T09:49:46.848Z",
     "timeSincePosted": "4h",
     "authorProfileUrl": "https://www.linkedin.com/company/digikalakar/posts",
-    "proposedComment": "Hi KALAKAR, really enjoyed your perspective on The Must-Know Technical SEO Secrets Every Marketer Should Master. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi KALAKAR, really enjoyed your perspective on The Must-Know Technical SEO Secrets Every Marketer Should Master. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395334798698930176",
@@ -2845,7 +2845,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T05:40:14.686Z",
     "timeSincePosted": "8h",
     "authorProfileUrl": "https://www.linkedin.com/in/abusayeedaiseo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC4vIQkBZyFFxzZsSFOb84HyMjY1YE2ayDk",
-    "proposedComment": "Hi Abu, really enjoyed your perspective on One mindset shift changed my growth. It reshaped how I approach SEO, AEO & GEO.…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Abu, really enjoyed your perspective on One mindset shift changed my growth. It reshaped how I approach SEO, AEO & GEO.…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395373038432722944",
@@ -2858,7 +2858,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T08:12:11.749Z",
     "timeSincePosted": "5h",
     "authorProfileUrl": "https://www.linkedin.com/in/muskan-amir-490381320?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFE2dWwBnNs6R5gFTgP2Sh2IkvIlxJ8lIWk",
-    "proposedComment": "Hi Muskan, really enjoyed your perspective on How to Get SEO Results Fast & Attract Clients: 1. Target easy keywords…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Muskan, really enjoyed your perspective on How to Get SEO Results Fast & Attract Clients: 1. Target easy keywords…. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395458029233610752",
@@ -2871,7 +2871,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T13:49:55.135Z",
     "timeSincePosted": "19m",
     "authorProfileUrl": "https://www.linkedin.com/in/muhammad-umar-a335232a1?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEjeyAcBORY-iDzw0U4WSO_yFdxMWdYB2J4",
-    "proposedComment": "Hi Muhammad, really enjoyed your perspective on 𝗬𝗼𝘂𝗿 𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗦𝗘𝗢 𝗠𝗶𝗴𝗵𝘁 𝗕𝗲 𝗛𝗮𝗰𝗸𝗲𝗱! Hackers are…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Muhammad, really enjoyed your perspective on 𝗬𝗼𝘂𝗿 𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗦𝗘𝗢 𝗠𝗶𝗴𝗵𝘁 𝗕𝗲 𝗛𝗮𝗰𝗸𝗲𝗱! Hackers are…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395365912880504832",
@@ -2884,7 +2884,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T07:43:52.885Z",
     "timeSincePosted": "6h",
     "authorProfileUrl": "https://www.linkedin.com/in/adrijana-vujadin?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABPxDLQBtEJN8gp8__0tffFTu2joRMgRpT8",
-    "proposedComment": "Hi Adrijana, really enjoyed your perspective on Jelena Misic_mindset coaching testimonial.. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Adrijana, really enjoyed your perspective on Jelena Misic_mindset coaching testimonial.. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395309589782675457",
@@ -2897,7 +2897,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T04:00:04.412Z",
     "timeSincePosted": "10h",
     "authorProfileUrl": "https://www.linkedin.com/in/pratiksha-das?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADNCWL0BgQMpN6BprQV3v8fQk8FSNphK4MU",
-    "proposedComment": "Hi Pratiksha, really enjoyed your perspective on 7 ways Broken Link Building Still Gets You Easy Wins. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Pratiksha, really enjoyed your perspective on 7 ways Broken Link Building Still Gets You Easy Wins. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395351448303263744",
@@ -2910,7 +2910,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T06:46:24.261Z",
     "timeSincePosted": "7h",
     "authorProfileUrl": "https://www.linkedin.com/in/ravi-yadav-54157216a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAChOY4EBtIywwgMR80FgXFvL3O2n5jLZ8dY",
-    "proposedComment": "Hi Ravi, really enjoyed your perspective on The SEO Wake-Up Call: Why Your Tools, Extensions, and Workflows Decide Your…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Ravi, really enjoyed your perspective on The SEO Wake-Up Call: Why Your Tools, Extensions, and Workflows Decide Your…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395230901221269504",
@@ -2923,7 +2923,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T22:47:23.597Z",
     "timeSincePosted": "15h",
     "authorProfileUrl": "https://www.linkedin.com/in/maidah-ahmed-a8a71b279?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEPqhUoB15Qj7n_4QhHgSu8J-ukMS4oCOH8",
-    "proposedComment": "Hi Maidah, really enjoyed your perspective on Why Solar Websites Need Strong SEO and Speed. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Maidah, really enjoyed your perspective on Why Solar Websites Need Strong SEO and Speed. Our team leverages AI insights plus on-the-ground execution across China and APAC. Shall we schedule a 20-minute strategy call next week? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395190146188337153",
@@ -2936,7 +2936,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T20:05:26.840Z",
     "timeSincePosted": "18h",
     "authorProfileUrl": "https://www.linkedin.com/in/mahnoor-habib-54971b330?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFNmckkBrT2xJkP5k5QP7abnfGHiI6qTd5U",
-    "proposedComment": "Hi Mahnoor, really enjoyed your perspective on Every 𝐒𝐄𝐎 𝐞𝐱𝐩𝐞𝐫𝐭 needs the right tool stack. Here are the tools I use…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Mahnoor, really enjoyed your perspective on Every 𝐒𝐄𝐎 𝐞𝐱𝐩𝐞𝐫𝐭 needs the right tool stack. Here are the tools I use…. We guide global brands through China-specific SEO, SEM, and localization. Open to a quick discovery call to exchange ideas? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395446943314894848",
@@ -2949,7 +2949,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T13:05:52.046Z",
     "timeSincePosted": "1h",
     "authorProfileUrl": "https://www.linkedin.com/in/tonyyan-quickcreator?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAACroIYBPXWyq9x2pFd5rnhPlQKKYwLtPUE",
-    "proposedComment": "Hi Tony, really enjoyed your perspective on Generative Engine Optimization (GEO) market hits $850M in 2025. SEO's next…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Tony, really enjoyed your perspective on Generative Engine Optimization (GEO) market hits $850M in 2025. SEO's next…. Our Shanghai-based strategists blend technical SEO with culturally tuned content. Happy to share a China SEO playbook if you're curious—shall we connect? – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395171786490884096",
@@ -2962,7 +2962,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-14T18:52:29.547Z",
     "timeSincePosted": "19h",
     "authorProfileUrl": "https://www.linkedin.com/company/awtech-solutions/posts",
-    "proposedComment": "Hi Awtech-Solutions, really enjoyed your perspective on Future-Proof Your Brand with Advanced IT Services: SEO, Graphic Design, and…. Jademond Digital supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Awtech-Solutions, really enjoyed your perspective on Future-Proof Your Brand with Advanced IT Services: SEO, Graphic Design, and…. Ins[ai]ght supports international teams with multilingual SEO and paid growth. Let me know if we can hop on a short call to explore collaboration. – Liang, Ins[ai]ght"
   },
   {
     "urn": "urn:li:activity:7395416423252160513",
@@ -2975,7 +2975,7 @@ window.__POSTS__ = [
     "postedAtISO": "2025-11-15T11:04:35.496Z",
     "timeSincePosted": "3h",
     "authorProfileUrl": "https://www.linkedin.com/in/indira-sangamreddy-5148092ba?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEymf6ABY8AcWopJQ2lM91QWZvHuHJyEOw0",
-    "proposedComment": "Hi Indira, really enjoyed your perspective on Traditional analytics miss AI-driven engagement completely. Marketers invest in…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Jademond Digital https://www.jademond.com/"
+    "proposedComment": "Hi Indira, really enjoyed your perspective on Traditional analytics miss AI-driven engagement completely. Marketers invest in…. We partner with B2B leaders to capture demand across Baidu, social, and marketplaces. Can I send over a tailored growth brief for your team? – Liang, Ins[ai]ght"
   }
 ];
 window.__LEAD_SCORES__ = [
